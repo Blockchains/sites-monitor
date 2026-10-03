@@ -1,0 +1,348 @@
+{
+ "checked_at": "2026-10-03T18:09:58Z",
+ "threshold": 50,
+ "results": [
+  {
+   "domain": "grokhack.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 62,
+    "accessibility": 100,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "4.1\u00a0s",
+    "CLS": "0.054",
+    "TBT": "590\u00a0ms",
+    "FCP": "3.2\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "grokskill.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 81,
+    "accessibility": 96,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "4.2\u00a0s",
+    "CLS": "0",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.9\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "induscript.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 81,
+    "accessibility": 96,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "3.8\u00a0s",
+    "CLS": "0",
+    "TBT": "10\u00a0ms",
+    "FCP": "3.6\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "11plus.college",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 79,
+    "accessibility": 100,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "4.2\u00a0s",
+    "CLS": "0",
+    "TBT": "0\u00a0ms",
+    "FCP": "3.4\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "hackers.college",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 95,
+    "accessibility": 96,
+    "best-practices": 96,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "2.4\u00a0s",
+    "CLS": "0",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.3\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "gpu.skin",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 90,
+    "accessibility": 95,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "2.3\u00a0s",
+    "CLS": "0.145",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.3\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "agenticoins.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 90,
+    "accessibility": 92,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "2.9\u00a0s",
+    "CLS": "0",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.9\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "land.solar",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 95,
+    "accessibility": 96,
+    "best-practices": 75,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "2.3\u00a0s",
+    "CLS": "0.001",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.3\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "blockchainlab.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 59,
+    "accessibility": 96,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "7.3\u00a0s",
+    "CLS": "0.002",
+    "TBT": "0\u00a0ms",
+    "FCP": "7.2\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "rcapad.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 65,
+    "accessibility": 100,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "5.6\u00a0s",
+    "CLS": "0",
+    "TBT": "10\u00a0ms",
+    "FCP": "5.6\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "halal.coupons",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 71,
+    "accessibility": 96,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "4.8\u00a0s",
+    "CLS": "0.018",
+    "TBT": "0\u00a0ms",
+    "FCP": "4.6\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "regulationcryptoasset.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 79,
+    "accessibility": 92,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "4.6\u00a0s",
+    "CLS": "0.006",
+    "TBT": "20\u00a0ms",
+    "FCP": "2.7\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "onetouchswitch.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 81,
+    "accessibility": 96,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "3.7\u00a0s",
+    "CLS": "0.003",
+    "TBT": "0\u00a0ms",
+    "FCP": "3.7\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "halalswitch.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 92,
+    "accessibility": 100,
+    "best-practices": 75,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "3.2\u00a0s",
+    "CLS": "0",
+    "TBT": "30\u00a0ms",
+    "FCP": "1.7\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "partywallsurvey.uk",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 95,
+    "accessibility": 96,
+    "best-practices": 79,
+    "seo": 91
+   },
+   "metrics": {
+    "LCP": "2.4\u00a0s",
+    "CLS": "0.025",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.4\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "equityperpetual.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 92,
+    "accessibility": 100,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "2.7\u00a0s",
+    "CLS": "0.031",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.7\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "altvaults.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 85,
+    "accessibility": 100,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "3.2\u00a0s",
+    "CLS": "0.069",
+    "TBT": "0\u00a0ms",
+    "FCP": "3.2\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "aisales.news",
+   "locked": true,
+   "error": null,
+   "scores": {
+    "performance": 97,
+    "accessibility": 100,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "2.1\u00a0s",
+    "CLS": "0.022",
+    "TBT": "0\u00a0ms",
+    "FCP": "2.1\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  }
+ ]
+}

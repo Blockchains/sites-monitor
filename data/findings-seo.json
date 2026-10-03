@@ -1,0 +1,128 @@
+[
+ {
+  "domain": "grokhack.com",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "grokskill.com",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "induscript.com",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "11plus.college",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "hackers.college",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "gpu.skin",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "agenticoins.com",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "land.solar",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "blockchainlab.com",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: og_url_on_domain"
+ },
+ {
+  "domain": "rcapad.com",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: og_url_on_domain"
+ },
+ {
+  "domain": "halal.coupons",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: og_url_on_domain"
+ },
+ {
+  "domain": "regulationcryptoasset.com",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: og_url_on_domain"
+ },
+ {
+  "domain": "onetouchswitch.com",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: og_url_on_domain"
+ },
+ {
+  "domain": "halalswitch.com",
+  "check": "seo",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "All SEO basics present"
+ },
+ {
+  "domain": "partywallsurvey.uk",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: canonical_on_domain, og_description, og_url_on_domain"
+ },
+ {
+  "domain": "equityperpetual.com",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: og_description, og_url_on_domain, robots_txt, sitemap"
+ },
+ {
+  "domain": "altvaults.com",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "HTTP 200; failing: canonical_on_domain, og_url_on_domain"
+ },
+ {
+  "domain": "aisales.news",
+  "check": "seo",
+  "ok": false,
+  "skip_issue": true,
+  "detail": "HTTP 200; failing: canonical_on_domain, og_description, og_url_on_domain, robots_txt, sitemap"
+ }
+]

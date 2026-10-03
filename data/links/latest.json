@@ -1,0 +1,208 @@
+{
+ "checked_at": "2026-10-03T18:01:05Z",
+ "results": [
+  {
+   "domain": "grokhack.com",
+   "locked": false,
+   "error": null,
+   "total": 99,
+   "successful": 99,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "grokskill.com",
+   "locked": false,
+   "error": null,
+   "total": 239,
+   "successful": 239,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "induscript.com",
+   "locked": false,
+   "error": null,
+   "total": 690,
+   "successful": 689,
+   "errors": 1,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": [
+    {
+     "url": "https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;600;650&family=IBM+Plex+Mono:wght@400;500&display=swap",
+     "status": "Rejected status code: 400 Bad Request"
+    }
+   ]
+  },
+  {
+   "domain": "11plus.college",
+   "locked": false,
+   "error": null,
+   "total": 56,
+   "successful": 56,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "hackers.college",
+   "locked": false,
+   "error": null,
+   "total": 87,
+   "successful": 87,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "gpu.skin",
+   "locked": false,
+   "error": null,
+   "total": 73,
+   "successful": 73,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "agenticoins.com",
+   "locked": false,
+   "error": null,
+   "total": 98,
+   "successful": 98,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "land.solar",
+   "locked": false,
+   "error": null,
+   "total": 57,
+   "successful": 57,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "blockchainlab.com",
+   "locked": false,
+   "error": null,
+   "total": 251,
+   "successful": 249,
+   "errors": 0,
+   "excludes": 2,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "rcapad.com",
+   "locked": false,
+   "error": null,
+   "total": 373,
+   "successful": 373,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "halal.coupons",
+   "locked": false,
+   "error": null,
+   "total": 227,
+   "successful": 227,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "regulationcryptoasset.com",
+   "locked": false,
+   "error": null,
+   "total": 242,
+   "successful": 241,
+   "errors": 0,
+   "excludes": 1,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "onetouchswitch.com",
+   "locked": false,
+   "error": null,
+   "total": 53,
+   "successful": 53,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "halalswitch.com",
+   "locked": false,
+   "error": null,
+   "total": 6,
+   "successful": 6,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "partywallsurvey.uk",
+   "locked": false,
+   "error": null,
+   "total": 85,
+   "successful": 85,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "equityperpetual.com",
+   "locked": false,
+   "error": null,
+   "total": 101,
+   "successful": 101,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "altvaults.com",
+   "locked": false,
+   "error": null,
+   "total": 79,
+   "successful": 79,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  },
+  {
+   "domain": "aisales.news",
+   "locked": true,
+   "error": null,
+   "total": 31,
+   "successful": 31,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
+  }
+ ]
+}

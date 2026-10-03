@@ -1,0 +1,128 @@
+[
+ {
+  "domain": "grokhack.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "99 links checked, none broken"
+ },
+ {
+  "domain": "grokskill.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "239 links checked, none broken"
+ },
+ {
+  "domain": "induscript.com",
+  "check": "broken-links",
+  "ok": false,
+  "skip_issue": false,
+  "detail": "1 broken of 690: https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;600;650&family=IBM+Plex+Mono:wght@400;500&display=swap (Rejected status code: 400 Bad Request)"
+ },
+ {
+  "domain": "11plus.college",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "56 links checked, none broken"
+ },
+ {
+  "domain": "hackers.college",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "87 links checked, none broken"
+ },
+ {
+  "domain": "gpu.skin",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "73 links checked, none broken"
+ },
+ {
+  "domain": "agenticoins.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "98 links checked, none broken"
+ },
+ {
+  "domain": "land.solar",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "57 links checked, none broken"
+ },
+ {
+  "domain": "blockchainlab.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "251 links checked, none broken"
+ },
+ {
+  "domain": "rcapad.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "373 links checked, none broken"
+ },
+ {
+  "domain": "halal.coupons",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "227 links checked, none broken"
+ },
+ {
+  "domain": "regulationcryptoasset.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "242 links checked, none broken"
+ },
+ {
+  "domain": "onetouchswitch.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "53 links checked, none broken"
+ },
+ {
+  "domain": "halalswitch.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "6 links checked, none broken"
+ },
+ {
+  "domain": "partywallsurvey.uk",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "85 links checked, none broken"
+ },
+ {
+  "domain": "equityperpetual.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "101 links checked, none broken"
+ },
+ {
+  "domain": "altvaults.com",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": false,
+  "detail": "79 links checked, none broken"
+ },
+ {
+  "domain": "aisales.news",
+  "check": "broken-links",
+  "ok": true,
+  "skip_issue": true,
+  "detail": "31 links checked, none broken"
+ }
+]

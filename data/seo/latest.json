@@ -1,0 +1,573 @@
+{
+ "checked_at": "2026-10-03T17:59:02Z",
+ "results": [
+  {
+   "domain": "grokhack.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "The Grok Hack \u2014 Global 30-Day Hackathon by Grok",
+    "description": "The world's first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
+    "canonical": "https://grokhack.com/",
+    "og:title": "The Grok Hack \u2014 Global 30-Day Hackathon by Grok",
+    "og:description": "The world's first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
+    "og:image": "https://grokhack.com/og.jpg",
+    "og:url": "https://grokhack.com/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "grokskill.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "GrokSkill \u2014 The live directory of Grok skills",
+    "description": "Fifty Grok skills you can run in the browser or install. Each one is a method, a deliverable, and a SKILL.md file. No sign-in.",
+    "canonical": "https://grokskill.com/",
+    "og:title": "GrokSkill \u2014 The live directory of Grok skills",
+    "og:description": "Fifty Grok skills you can run in the browser or install. Each one is a method, a deliverable, and a SKILL.md file. No sign-in.",
+    "og:image": "https://grokskill.com/og.jpg",
+    "og:url": "https://grokskill.com/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "induscript.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "Induscript \u2014 Indus Script Research & Decoding",
+    "description": "An open, evidence-led research platform for the Indus script and the possible language(s) behind it. Explore inscriptions, methods, and hypotheses.",
+    "canonical": "https://induscript.com/",
+    "og:title": "Induscript \u2014 Indus Script Research & Decoding",
+    "og:description": "An open, evidence-led research platform for the Indus script and the possible language(s) behind it. Explore inscriptions, methods, and hypotheses.",
+    "og:image": "https://induscript.com/og.jpg",
+    "og:url": "https://induscript.com/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "11plus.college",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "11Plus.College \u2014 Master English. Unlock Your Adventure.",
+    "description": "An immersive English-learning adventure that helps children build vocabulary, crack comprehension, write brilliantly and prepare for the 11+ with confidence.",
+    "canonical": "https://11plus.college/",
+    "og:title": "11Plus.College",
+    "og:description": "An immersive English-learning adventure that helps children build vocabulary, crack comprehension, write brilliantly and prepare for the 11+ with confidence.",
+    "og:image": "https://11plus.college/og.jpg",
+    "og:url": "https://11plus.college/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "hackers.college",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "HACKERS \u2014 See Around Corners | Selective College for Ethical Systems Thinkers",
+    "description": "HACKERS is a selective college for ethical problem-solvers. Study seventeen Hack Atlas studios, train SCAN / FLIP / BUILD / BREAK / PROVE, and wear HACKERS Supply. File 001: permission chains. File 018: trust-graph calculus.",
+    "canonical": "https://hackers.college/",
+    "og:title": "HACKERS \u2014 See Around Corners | Selective College for Ethical Systems Thinkers",
+    "og:description": "HACKERS is a selective college for ethical problem-solvers. Study seventeen Hack Atlas studios, train SCAN / FLIP / BUILD / BREAK / PROVE, and wear HACKERS Supply. File 001: permission chains. File 018: trust-graph calculus.",
+    "og:image": "https://hackers.college/og.jpg",
+    "og:url": "https://hackers.college/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "gpu.skin",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "GPU.Skin \u2014 Your Skin, Upgraded",
+    "description": "GPU.Skin personalizes skincare with high-compute analysis \u2014 clearer routines, better matches, skin upgraded for you.",
+    "canonical": "https://gpu.skin/",
+    "og:title": "GPU.Skin \u2014 Your Skin, Upgraded",
+    "og:description": "GPU.Skin personalizes skincare with high-compute analysis \u2014 clearer routines, better matches, skin upgraded for you.",
+    "og:image": "https://gpu.skin/og.jpg",
+    "og:url": "https://gpu.skin/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "agenticoins.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "AgentiCoins \u2014 the trusted commerce layer for AI agents",
+    "description": "AgentiCoins is the trusted commerce layer for AI agents. Discover verified services, set policy, route payment intents and keep a receipt for every action.",
+    "canonical": "https://agenticoins.com/",
+    "og:title": "AgentiCoins \u2014 the trusted commerce layer for AI agents",
+    "og:description": "AgentiCoins is the trusted commerce layer for AI agents. Discover verified services, set policy, route payment intents and keep a receipt for every action.",
+    "og:image": "https://agenticoins.com/og.jpg",
+    "og:url": "https://agenticoins.com/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "land.solar",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "Land.solar \u2014 OS for Solar & BESS Land (UK)",
+    "description": "AI-native OS for finding, proving, financing and transacting UK land for solar, battery storage and grid-connected energy.",
+    "canonical": "https://land.solar/",
+    "og:title": "Land.solar \u2014 OS for Solar & BESS Land (UK)",
+    "og:description": "AI-native OS for finding, proving, financing and transacting UK land for solar, battery storage and grid-connected energy.",
+    "og:image": "https://land.solar/og.jpg",
+    "og:url": "https://land.solar/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "blockchainlab.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "Blockchain Lab | Global Venture Studio & Digital Asset Development Lab",
+    "description": "Blockchain Lab explains how blockchain systems work, what changed in practice, and how founders and institutions build programmable infrastructure. A venture studio and a research library. Not a trading venue.",
+    "canonical": "https://blockchainlab.com/",
+    "og:title": "Blockchain Lab",
+    "og:description": "Blockchain Lab is a global venture studio and digital asset development lab. We build ventures for the programmable economy.",
+    "og:image": "https://blockchains.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "rcapad.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "RCA Pad \u2014 Crypto Regulation Briefings",
+    "description": "Clear crypto regulation briefings and RCA context \u2014 track digital-asset rules, compliance signals, and what changed.",
+    "canonical": "https://rcapad.com/",
+    "og:title": "RCA Pad \u2014 Crypto Regulation Briefings",
+    "og:description": "Clear crypto regulation briefings and RCA context \u2014 track digital-asset rules, compliance signals, and what changed.",
+    "og:image": "https://regca.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "halal.coupons",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "Halal.Coupons \u2014 Verified Halal Deals by City",
+    "description": "Verified halal and Muslim-friendly offers by country and city \u2014 online and in person. No fake timers.",
+    "canonical": "https://halal.coupons/",
+    "og:title": "Halal.Coupons \u2014 Verified Halal Deals by City",
+    "og:description": "Verified halal and Muslim-friendly offers by country and city \u2014 online and in person. No fake timers.",
+    "og:image": "https://shariah.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "regulationcryptoasset.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "Regulation Crypto Assets \u2014 briefing desk",
+    "description": "Independent intelligence for regulated digital assets \u2014 curated primary-source content, issuer research and regulatory context.",
+    "canonical": "https://regulationcryptoasset.com/",
+    "og:title": "Regulation Crypto Assets \u2014 briefing desk",
+    "og:description": "Independent intelligence for regulated digital assets \u2014 curated primary-source content, issuer research and regulatory context.",
+    "og:image": "https://rca.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "onetouchswitch.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "One Touch Switch | Compare UK Broadband",
+    "description": "Compare UK broadband at your address. One Touch Switch means your new provider runs the change. Independent \u2014 not Ofcom or a network.",
+    "canonical": "https://onetouchswitch.com/",
+    "og:title": "One Touch Switch | Compare UK Broadband",
+    "og:description": "Compare UK broadband at your address. One Touch Switch means your new provider runs the change. Independent \u2014 not Ofcom or a network.",
+    "og:image": "https://touch.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "halalswitch.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "HalalSwitch \u2014 Halal Home Finance, Confidently",
+    "description": "Switch to halal home finance with confidence. Compare verified Sharia-compliant home-finance providers on HalalSwitch.",
+    "canonical": "https://halalswitch.com/",
+    "og:title": "HalalSwitch \u2014 Halal Home Finance, Confidently",
+    "og:description": "Switch to halal home finance with confidence. Compare verified Sharia-compliant home-finance providers on HalalSwitch.",
+    "og:image": "https://halalswitch.com/og.jpg",
+    "og:url": "https://halalswitch.com/"
+   },
+   "failed": [],
+   "ok": true
+  },
+  {
+   "domain": "partywallsurvey.uk",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": false,
+    "og_title": true,
+    "og_description": false,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "PartyWallSurvey.uk \u2014 Notices, surveyors and Awards",
+    "description": "Clear next steps for Party Wall Notices, surveyors and Awards in London and the Home Counties. Human professional review. England and Wales only.",
+    "canonical": "",
+    "og:title": "PartyWallSurvey.uk",
+    "og:description": "",
+    "og:image": "https://partywall.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "canonical_on_domain",
+    "og_description",
+    "og_url_on_domain"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "equityperpetual.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": true,
+    "og_title": true,
+    "og_description": false,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": false,
+    "sitemap": false,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "EPIC \u00b7 Understand equity perpetual markets",
+    "description": "The independent intelligence layer for equity perpetual markets. Compare funding, basis, contract terms, venue risk and market-closure conditions.",
+    "canonical": "https://equityperpetual.com/",
+    "og:title": "EPIC",
+    "og:description": "",
+    "og:image": "https://xenon-lion-clover-horizon.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "og_description",
+    "og_url_on_domain",
+    "robots_txt",
+    "sitemap"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "altvaults.com",
+   "locked": false,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": false,
+    "og_title": true,
+    "og_description": true,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": true,
+    "sitemap": true,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "AltVaults | The Operating System for Investment Vaults",
+    "description": "AltVaults enables institutions to launch, operate, distribute and route digitally operable investment vaults across private markets, tokenised assets and DeFi.",
+    "canonical": "",
+    "og:title": "AltVaults",
+    "og:description": "The operating system for alternative capital",
+    "og:image": "https://vaults.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "canonical_on_domain",
+    "og_url_on_domain"
+   ],
+   "ok": false
+  },
+  {
+   "domain": "aisales.news",
+   "locked": true,
+   "status": 200,
+   "checks": {
+    "title": true,
+    "description": true,
+    "canonical_on_domain": false,
+    "og_title": true,
+    "og_description": false,
+    "og_image": true,
+    "og_url_on_domain": false,
+    "robots_txt": false,
+    "sitemap": false,
+    "favicon": true,
+    "apple_touch_icon": true,
+    "manifest": true
+   },
+   "values": {
+    "title": "Halcyon",
+    "description": "Halcyon \u2014 the business development platform. Leads, intros, partnerships, paper. Ash & Hale live book.",
+    "canonical": "",
+    "og:title": "Halcyon",
+    "og:description": "",
+    "og:image": "https://king-summit-olive-tundra.grok.me/og.jpg",
+    "og:url": ""
+   },
+   "failed": [
+    "canonical_on_domain",
+    "og_description",
+    "og_url_on_domain",
+    "robots_txt",
+    "sitemap"
+   ],
+   "ok": false
+  }
+ ]
+}
