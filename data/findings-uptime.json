@@ -3,19 +3,19 @@
   "domain": "grokhack.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 346 ms"
+  "detail": "HTTP 200 in 365 ms"
  },
  {
   "domain": "grokhack.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-04T21:40:27Z (62.2 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-04T21:40:27Z (62.1 days left; threshold 14)"
  },
  {
   "domain": "grokskill.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 450 ms"
+  "detail": "HTTP 200 in 534 ms"
  },
  {
   "domain": "grokskill.com",
@@ -27,19 +27,19 @@
   "domain": "induscript.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 1000 ms"
+  "detail": "HTTP 200 in 1035 ms"
  },
  {
   "domain": "induscript.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-19T17:06:07Z (77.0 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-19T17:06:07Z (76.9 days left; threshold 14)"
  },
  {
   "domain": "11plus.college",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 578 ms"
+  "detail": "HTTP 200 in 463 ms"
  },
  {
   "domain": "11plus.college",
@@ -51,7 +51,7 @@
   "domain": "hackers.college",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 495 ms"
+  "detail": "HTTP 200 in 400 ms"
  },
  {
   "domain": "hackers.college",
@@ -63,7 +63,7 @@
   "domain": "gpu.skin",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 442 ms"
+  "detail": "HTTP 200 in 375 ms"
  },
  {
   "domain": "gpu.skin",
@@ -75,7 +75,7 @@
   "domain": "agenticoins.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 353 ms"
+  "detail": "HTTP 200 in 370 ms"
  },
  {
   "domain": "agenticoins.com",
@@ -87,7 +87,7 @@
   "domain": "land.solar",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 758 ms"
+  "detail": "HTTP 200 in 466 ms"
  },
  {
   "domain": "land.solar",
@@ -99,7 +99,7 @@
   "domain": "blockchainlab.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 284 ms"
+  "detail": "HTTP 200 in 334 ms"
  },
  {
   "domain": "blockchainlab.com",
@@ -111,7 +111,7 @@
   "domain": "rcapad.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 295 ms"
+  "detail": "HTTP 200 in 471 ms"
  },
  {
   "domain": "rcapad.com",
@@ -123,7 +123,7 @@
   "domain": "halal.coupons",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 569 ms"
+  "detail": "HTTP 200 in 484 ms"
  },
  {
   "domain": "halal.coupons",
@@ -135,7 +135,7 @@
   "domain": "regulationcryptoasset.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 254 ms"
+  "detail": "HTTP 200 in 468 ms"
  },
  {
   "domain": "regulationcryptoasset.com",
@@ -147,7 +147,7 @@
   "domain": "onetouchswitch.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 218 ms"
+  "detail": "HTTP 200 in 1224 ms"
  },
  {
   "domain": "onetouchswitch.com",
@@ -159,7 +159,7 @@
   "domain": "halalswitch.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 120 ms"
+  "detail": "HTTP 200 in 198 ms"
  },
  {
   "domain": "halalswitch.com",
@@ -171,7 +171,7 @@
   "domain": "partywallsurvey.uk",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 298 ms"
+  "detail": "HTTP 200 in 291 ms"
  },
  {
   "domain": "partywallsurvey.uk",
@@ -183,7 +183,7 @@
   "domain": "equityperpetual.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 358 ms"
+  "detail": "HTTP 200 in 255 ms"
  },
  {
   "domain": "equityperpetual.com",
@@ -195,7 +195,7 @@
   "domain": "altvaults.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 319 ms"
+  "detail": "HTTP 200 in 310 ms"
  },
  {
   "domain": "altvaults.com",
@@ -207,12 +207,12 @@
   "domain": "aisales.news",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 648 ms"
+  "detail": "HTTP 200 in 474 ms"
  },
  {
   "domain": "aisales.news",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-12T19:44:13Z (70.1 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-12T19:44:13Z (70.0 days left; threshold 14)"
  }
 ]
