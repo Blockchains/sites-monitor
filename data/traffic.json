@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T18:11:07Z",
+ "updated_at": "2026-10-03T18:11:22Z",
  "note": "Aggregate daily visitors/pageviews per domain (24h window ending at digest time, Europe/London date). basis=reconciled: digest reconciliation of live feed + ledger; basis=endpoint: /api/pulse 24h counters.",
  "days": {
   "2026-09-27": {
