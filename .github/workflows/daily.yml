@@ -1,0 +1,55 @@
+name: daily (SEO, broken links, Lighthouse mobile)
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: pages-data-daily
+  cancel-in-progress: false
+env:
+  LYCHEE_VERSION: lychee-v0.24.2
+  LHCI_VERSION: 0.15.1
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: pages
+      - name: SEO basics
+        run: python3 scripts/seo.py --out pages/data
+      - name: Broken links (lychee, homepage links only, capped)
+        run: |
+          curl -sSfL "https://github.com/lycheeverse/lychee/releases/download/${LYCHEE_VERSION}/lychee-x86_64-unknown-linux-gnu.tar.gz" | tar xz
+          LY=$(find . -maxdepth 3 -type f -name lychee | head -1)
+          mkdir -p lychee-reports
+          for d in $(jq -r '.domains[].domain' domains.json); do
+            timeout 180 "$LY" --no-progress --format json --output "lychee-reports/$d.json" \
+              --max-concurrency 8 --timeout 20 --max-retries 1 --accept '200..=299,403,429' \
+              --exclude '^mailto:' --exclude '^tel:' --exclude 'linkedin\.com' --exclude '(x|twitter)\.com' \
+              "https://$d/" || true
+          done
+          python3 scripts/links_parse.py --reports lychee-reports --out pages/data
+      - name: Lighthouse CI (mobile, 1 run per homepage)
+        run: |
+          npm install -g "@lhci/cli@${LHCI_VERSION}" >/dev/null 2>&1
+          mkdir -p lh-reports
+          for d in $(jq -r '.domains[].domain' domains.json); do
+            rm -rf .lighthouseci
+            timeout 240 lhci collect --url="https://$d/" --numberOfRuns=1 \
+              --settings.chromeFlags="--no-sandbox --headless=new" >/dev/null 2>&1 || echo "lhci failed for $d"
+            mkdir -p "lh-reports/$d"; cp .lighthouseci/lhr-*.json "lh-reports/$d/" 2>/dev/null || true
+          done
+          python3 scripts/lighthouse_parse.py --reports lh-reports --out pages/data
+      - name: Publish JSON to gh-pages
+        run: bash scripts/publish.sh "daily $(date -u +%FT%TZ)"
+      - name: Open / update / close issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/issues.py pages/data/findings-seo.json pages/data/findings-links.json pages/data/findings-lighthouse.json

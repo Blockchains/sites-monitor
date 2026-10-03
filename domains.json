@@ -1,0 +1,23 @@
+{
+  "_note": "Grok Build custom-domain sites monitored by this repo. 'locked': domain currently serves third-party content (no SEO/Lighthouse/link issues raised).",
+  "domains": [
+    {"domain": "grokhack.com"},
+    {"domain": "grokskill.com"},
+    {"domain": "induscript.com"},
+    {"domain": "11plus.college"},
+    {"domain": "hackers.college"},
+    {"domain": "gpu.skin"},
+    {"domain": "agenticoins.com"},
+    {"domain": "land.solar"},
+    {"domain": "blockchainlab.com"},
+    {"domain": "rcapad.com"},
+    {"domain": "halal.coupons"},
+    {"domain": "regulationcryptoasset.com"},
+    {"domain": "onetouchswitch.com"},
+    {"domain": "halalswitch.com"},
+    {"domain": "partywallsurvey.uk"},
+    {"domain": "equityperpetual.com"},
+    {"domain": "altvaults.com"},
+    {"domain": "aisales.news", "locked": true, "lock_note": "Halcyon-locked (serves Halcyon content until released)"}
+  ]
+}

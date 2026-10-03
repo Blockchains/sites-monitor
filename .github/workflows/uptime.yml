@@ -1,0 +1,29 @@
+name: uptime (every 10 min)
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: pages-data-uptime
+  cancel-in-progress: false
+jobs:
+  uptime:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: pages
+      - name: HTTP status, response time, TLS expiry
+        run: python3 scripts/uptime.py --out pages/data
+      - name: Publish JSON to gh-pages
+        run: bash scripts/publish.sh "uptime $(date -u +%FT%TZ)"
+      - name: Open / update / close issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/issues.py pages/data/findings-uptime.json

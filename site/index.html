@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sites status — Blockchains</title>
+<meta name="description" content="Live status, Lighthouse scores, SEO checks and traffic for Ismail Malik's custom-domain sites.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Sites status</h1>
+  <p class="sub">Uptime every 10 min · SEO, broken links &amp; Lighthouse (mobile) daily · security weekly. Source: <a href="https://github.com/Blockchains/sites-monitor">Blockchains/sites-monitor</a></p>
+  <p id="summary" class="summary">Loading…</p>
+</header>
+<main>
+  <section>
+    <h2>Status</h2>
+    <div class="scroll"><table id="status">
+      <thead><tr><th>Site</th><th>Status</th><th>Response</th><th>TLS</th><th title="Lighthouse mobile: Performance / Accessibility / Best practices / SEO">Lighthouse (P/A/BP/SEO)</th><th>SEO basics</th><th>Links</th><th>Security headers</th></tr></thead>
+      <tbody></tbody>
+    </table></div>
+    <p class="meta" id="checked"></p>
+  </section>
+  <section>
+    <h2>Traffic</h2>
+    <p class="meta">Aggregate daily visitors / pageviews per domain from the first-party <code>/api/pulse</code> digest (no IPs or visitor-level data).</p>
+    <div id="traffic-total"></div>
+    <div class="scroll"><table id="traffic"><thead></thead><tbody></tbody></table></div>
+  </section>
+</main>
+<footer><a href="https://github.com/Blockchains/sites-monitor/issues?q=is%3Aissue+is%3Aopen+label%3Amonitor">Open monitor issues</a> · data: <a href="data/uptime/latest.json">uptime</a> · <a href="data/seo/latest.json">seo</a> · <a href="data/lighthouse/latest.json">lighthouse</a> · <a href="data/links/latest.json">links</a> · <a href="data/security/latest.json">security</a> · <a href="data/traffic.json">traffic</a></footer>
+<script src="app.js"></script>
+</body>
+</html>
