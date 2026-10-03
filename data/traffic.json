@@ -1,0 +1,446 @@
+{
+ "updated_at": "2026-10-03T18:11:07Z",
+ "note": "Aggregate daily visitors/pageviews per domain (24h window ending at digest time, Europe/London date). basis=reconciled: digest reconciliation of live feed + ledger; basis=endpoint: /api/pulse 24h counters.",
+ "days": {
+  "2026-09-27": {
+   "basis": "endpoint",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 15,
+     "pageviews": 24,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 21,
+     "pageviews": 21,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "aisales.news": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "halalswitch.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "partywallsurvey.uk": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    }
+   }
+  },
+  "2026-09-28": {
+   "basis": "endpoint",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 15,
+     "pageviews": 24,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "aisales.news": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "halalswitch.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "partywallsurvey.uk": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "equityperpetual.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    }
+   }
+  },
+  "2026-09-29": {
+   "basis": "endpoint",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 8,
+     "pageviews": 21,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "aisales.news": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "halalswitch.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "partywallsurvey.uk": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "equityperpetual.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "altvaults.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    }
+   }
+  },
+  "2026-09-30": {
+   "basis": "endpoint",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 13,
+     "pageviews": 13,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 6,
+     "pageviews": 6,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 6,
+     "pageviews": 6,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "aisales.news": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "halalswitch.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "partywallsurvey.uk": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "equityperpetual.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "altvaults.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    }
+   }
+  },
+  "2026-10-03": {
+   "basis": "reconciled",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 20,
+     "pageviews": 40,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 13,
+     "pageviews": 13,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 3,
+     "pageviews": 8,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "blockchainlab.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "aisales.news": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "halalswitch.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "partywallsurvey.uk": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "equityperpetual.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "altvaults.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    }
+   }
+  }
+ }
+}
