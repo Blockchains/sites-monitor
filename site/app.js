@@ -30,7 +30,8 @@ const ago = iso => { if (!iso) return 'never'; const m = Math.round((Date.now() 
   const doms2 = [...new Set(days.flatMap(dd => Object.keys(tr.days[dd].domains || {})))].sort();
   const tot = dd => Object.values(tr.days[dd].domains || {}).reduce((a, v) => [a[0] + (v.visitors || 0), a[1] + (v.pageviews || 0)], [0, 0]);
   const last = days[days.length - 1], [tv, tp] = tot(last);
-  document.getElementById('traffic-total').innerHTML = `<p class="summary">Latest digest (${esc(last)}): <b>${tv}</b> visitors · <b>${tp}</b> pageviews across ${doms2.length} domains. Updated ${ago(tr.updated_at)}.</p>`;
+  const nRep = Object.values(tr.days[last].domains || {}).filter(v => v && v.visitors != null).length;
+  document.getElementById('traffic-total').innerHTML = `<p class="summary">Latest digest (${esc(last)}): <b>${tv}</b> visitors · <b>${tp}</b> pageviews across ${nRep} of ${Object.keys(tr.days[last].domains || {}).length} domains reporting${nRep < Object.keys(tr.days[last].domains || {}).length ? ' (others: no /api/pulse data)' : ''}. Updated ${ago(tr.updated_at)}.</p>`;
   const max = Math.max(1, ...doms2.flatMap(dm => days.map(dd => ((tr.days[dd].domains || {})[dm] || {}).pageviews || 0)));
   document.querySelector('#traffic thead').innerHTML = `<tr><th>Domain</th><th>Last ${days.length} digests (pageviews)</th><th class="num">Visitors (latest)</th><th class="num">Pageviews (latest)</th><th class="num">Pageviews (${days.length} d)</th></tr>`;
   document.querySelector('#traffic tbody').innerHTML = doms2.map(dm => {
