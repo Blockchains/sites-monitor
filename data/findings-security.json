@@ -1,0 +1,218 @@
+[
+ {
+  "domain": "grokhack.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "grokhack.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "grokskill.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "grokskill.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "induscript.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "induscript.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "11plus.college",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "11plus.college",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "hackers.college",
+  "check": "security-headers",
+  "ok": true,
+  "detail": "Required security headers present (recommended missing: content-security-policy)"
+ },
+ {
+  "domain": "hackers.college",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "gpu.skin",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "gpu.skin",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "agenticoins.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "agenticoins.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "land.solar",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "land.solar",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "blockchainlab.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "blockchainlab.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "rcapad.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "rcapad.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "halal.coupons",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "halal.coupons",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "regulationcryptoasset.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "regulationcryptoasset.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "onetouchswitch.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "onetouchswitch.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "halalswitch.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "halalswitch.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "partywallsurvey.uk",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "partywallsurvey.uk",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "equityperpetual.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "equityperpetual.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "altvaults.com",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "altvaults.com",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ },
+ {
+  "domain": "aisales.news",
+  "check": "security-headers",
+  "ok": false,
+  "detail": "Missing required: x-content-type-options, referrer-policy, clickjacking (x-frame-options or csp frame-ancestors); recommended missing: content-security-policy, permissions-policy"
+ },
+ {
+  "domain": "aisales.news",
+  "check": "exposed-files",
+  "ok": true,
+  "detail": "No exposed /.env or /.git files"
+ }
+]

@@ -1,0 +1,700 @@
+{
+ "checked_at": "2026-10-03T17:58:54Z",
+ "results": [
+  {
+   "domain": "grokhack.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "grokskill.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "induscript.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "11plus.college",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "hackers.college",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": true,
+    "referrer-policy": true,
+    "content-security-policy": false,
+    "permissions-policy": true,
+    "clickjacking (x-frame-options or csp frame-ancestors)": true
+   },
+   "missing_required": [],
+   "missing_recommended": [
+    "content-security-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 200,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 200,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 200,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": true,
+   "ok_exposed": true
+  },
+  {
+   "domain": "gpu.skin",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "agenticoins.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "land.solar",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "blockchainlab.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "rcapad.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "halal.coupons",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "regulationcryptoasset.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": true,
+    "referrer-policy": true,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "onetouchswitch.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "halalswitch.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "partywallsurvey.uk",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "equityperpetual.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "altvaults.com",
+   "locked": false,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  },
+  {
+   "domain": "aisales.news",
+   "locked": true,
+   "status": 200,
+   "headers_present": {
+    "strict-transport-security": true,
+    "x-content-type-options": false,
+    "referrer-policy": false,
+    "content-security-policy": false,
+    "permissions-policy": false,
+    "clickjacking (x-frame-options or csp frame-ancestors)": false
+   },
+   "missing_required": [
+    "x-content-type-options",
+    "referrer-policy",
+    "clickjacking (x-frame-options or csp frame-ancestors)"
+   ],
+   "missing_recommended": [
+    "content-security-policy",
+    "permissions-policy"
+   ],
+   "probes": {
+    "/.env": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/HEAD": {
+     "status": 404,
+     "exposed": false
+    },
+    "/.git/config": {
+     "status": 404,
+     "exposed": false
+    }
+   },
+   "exposed_paths": [],
+   "ok_headers": false,
+   "ok_exposed": true
+  }
+ ]
+}
