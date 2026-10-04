@@ -1,0 +1,74 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Blockchains/.github/main/docs/blocks.schema.json",
+  "schema_version": "1.0",
+  "name": "sites-monitor",
+  "repo": "Blockchains/sites-monitor",
+  "summary": "Uptime, TLS, SEO, broken-link, Lighthouse and security-header monitoring for the custom-domain sites, with a public status page, JSON results on gh-pages and one auto-managed GitHub issue per failing domain + check.",
+  "kind": [
+    "automation",
+    "dataset",
+    "web-app"
+  ],
+  "stability": "stable",
+  "license": "NOASSERTION",
+  "homepage": "https://blockchains.github.io/sites-monitor/",
+  "entrypoints": [
+    {
+      "type": "http",
+      "name": "data/uptime/latest.json",
+      "ref": "https://blockchains.github.io/sites-monitor/data/uptime/latest.json",
+      "usage": "also seo/, links/, lighthouse/, security/ latest.json and traffic.json"
+    },
+    {
+      "type": "cli",
+      "name": "scripts/uptime.py",
+      "ref": "scripts/uptime.py",
+      "usage": "python3 scripts/uptime.py --out DIR"
+    },
+    {
+      "type": "file",
+      "name": "domains.json",
+      "ref": "domains.json"
+    }
+  ],
+  "inputs": [
+    {
+      "name": "domains.json",
+      "type": "JSON",
+      "description": "domains, optional locked flag"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "findings + latest.json",
+      "type": "JSON"
+    },
+    {
+      "name": "monitor issues",
+      "type": "GitHub issues"
+    }
+  ],
+  "deps": [
+    "python3 (stdlib)",
+    "gh (issue manager)"
+  ],
+  "compatible_with": [
+    {
+      "repo": "Blockchains/blockchains.github.io",
+      "how": "hub links the status page"
+    },
+    {
+      "repo": "Blockchains/.github",
+      "how": "STATUS.md audit"
+    }
+  ],
+  "tests": {
+    "command": "python3 scripts/uptime.py --out /tmp/sm && DRY_RUN=1 python3 scripts/issues.py /tmp/sm/findings-uptime.json",
+    "network": true
+  },
+  "docs": {
+    "readme": "README.md",
+    "agents": "AGENTS.md",
+    "llms": "llms.txt"
+  }
+}

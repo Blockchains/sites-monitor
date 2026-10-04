@@ -1,0 +1,22 @@
+# sites-monitor
+
+> Uptime, TLS, SEO, broken-link, Lighthouse and security-header monitoring for the custom-domain sites, with a public status page, JSON results on gh-pages and one auto-managed GitHub issue per failing domain + check.
+
+## Docs
+
+- [README](https://raw.githubusercontent.com/Blockchains/sites-monitor/main/README.md): overview, install and the 'Use as a building block' section
+- [AGENTS.md](https://raw.githubusercontent.com/Blockchains/sites-monitor/main/AGENTS.md): setup, build/test commands, structure map, conventions and rules for AI coding agents
+- [blocks.json](https://raw.githubusercontent.com/Blockchains/sites-monitor/main/blocks.json): machine-readable building-block manifest (entrypoints, inputs, outputs, deps, compatible blocks)
+
+## Key files
+
+- [scripts/uptime.py](https://github.com/Blockchains/sites-monitor/blob/main/scripts/uptime.py): uptime check
+- [scripts/issues.py](https://github.com/Blockchains/sites-monitor/blob/main/scripts/issues.py): issue manager
+- [domains.json](https://github.com/Blockchains/sites-monitor/blob/main/domains.json): domains
+
+## Related
+
+- [Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md): how to assemble projects from Blockchains repos
+- [Org llms.txt](https://blockchains.github.io/llms.txt) · [blocks catalogue](https://blockchains.github.io/blocks.json)
+- [Blockchains/blockchains.github.io](https://github.com/Blockchains/blockchains.github.io): hub links the status page
+- [Blockchains/.github](https://github.com/Blockchains/.github): STATUS.md audit

@@ -37,6 +37,39 @@ python3 scripts/seo.py --out /tmp/sm         # SEO + link checks
 DRY_RUN=1 python3 scripts/issues.py /tmp/sm/findings-uptime.json   # print issue actions without touching GitHub
 ```
 
+<!-- blocks:start -->
+## Use as a building block
+
+> **For AI agents and builders:** read [`AGENTS.md`](AGENTS.md) (setup, commands, structure, rules), [`llms.txt`](llms.txt) (doc map) and the machine-readable [`blocks.json`](blocks.json) ([schema](https://github.com/Blockchains/.github/blob/main/docs/BLOCKS-SCHEMA.md)). How all Blockchains blocks fit together: **[Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md)** · org catalogue: [https://blockchains.github.io/blocks.json](https://blockchains.github.io/blocks.json).
+
+**What it exports**
+
+| Export | Type | Install / access |
+|---|---|---|
+| `data/uptime/latest.json` | http | `also seo/, links/, lighthouse/, security/ latest.json and traffic.json` |
+| `scripts/uptime.py` | cli | `python3 scripts/uptime.py --out DIR` |
+| `domains.json` | file | `domains.json` |
+
+**Minimal example**
+
+```bash
+python3 scripts/uptime.py --out /tmp/sm      # HTTP + TLS expiry for every domain
+DRY_RUN=1 python3 scripts/issues.py /tmp/sm/findings-uptime.json   # print issue actions without touching GitHub
+```
+
+**Inputs → outputs**
+
+- In: `domains.json` (JSON) domains, optional locked flag
+- Out: `findings + latest.json` (JSON); `monitor issues` (GitHub issues)
+
+**Composes with**
+
+- [Blockchains/blockchains.github.io](https://github.com/Blockchains/blockchains.github.io): hub links the status page
+- [Blockchains/.github](https://github.com/Blockchains/.github): STATUS.md audit
+
+**Versioning & stability:** `stable`. Data files under gh-pages `data/` keep their shape; history is appended monthly (`uptime/history-YYYY-MM.jsonl`).
+<!-- blocks:end -->
+
 ## Configuration
 
 | Setting | Purpose |
