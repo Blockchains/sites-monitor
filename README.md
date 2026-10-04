@@ -25,3 +25,34 @@ All results are JSON on the [`gh-pages`](../../tree/gh-pages) branch under `data
 - `domains.json` – the monitored domains
 - `scripts/` – stdlib-only Python checks, issue manager (`issues.py`, uses `gh`), `publish.sh` (commits to gh-pages)
 - `site/` – the static status page (copied to gh-pages on every run)
+
+## Run locally
+
+Python 3 standard library only (`gh` CLI for issue management):
+
+```bash
+python3 scripts/uptime.py --out /tmp/sm      # HTTP + TLS expiry for every domain in domains.json
+python3 scripts/security.py --out /tmp/sm    # security headers / exposed files
+python3 scripts/seo.py --out /tmp/sm         # SEO + link checks
+DRY_RUN=1 python3 scripts/issues.py /tmp/sm/findings-uptime.json   # print issue actions without touching GitHub
+```
+
+## Configuration
+
+| Setting | Purpose |
+|---|---|
+| `domains.json` | Domains to monitor |
+| `GH_TOKEN` | Token for `issues.py` (the workflows pass `github.token`) |
+| `GITHUB_REPOSITORY` | Repo where findings become issues (default `Blockchains/sites-monitor`) |
+| `DRY_RUN=1` | Don't open/close issues |
+
+## Licence
+
+No licence file has been added yet, so default copyright applies (all rights reserved).
+
+## Contributing
+
+Issues and pull requests are welcome. Please read the [contributing guide](https://github.com/Blockchains/.github/blob/main/CONTRIBUTING.md), [code of conduct](https://github.com/Blockchains/.github/blob/main/CODE_OF_CONDUCT.md) and [security policy](https://github.com/Blockchains/.github/blob/main/SECURITY.md) first.
+
+---
+Built by Blockchain Lab — [blockchainlab.com](https://blockchainlab.com/?utm_source=github&utm_medium=readme&utm_campaign=sites-monitor)
