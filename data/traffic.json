@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T14:44:42Z",
+ "updated_at": "2026-10-04T14:44:50Z",
  "note": "Aggregate daily visitors/pageviews per domain (24h window ending at digest time, Europe/London date). basis=reconciled: digest reconciliation of live feed + ledger; basis=endpoint: /api/pulse 24h counters.",
  "days": {
   "2026-09-27": {
@@ -436,6 +436,101 @@
      "ok": false
     },
     "altvaults.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    }
+   }
+  },
+  "2026-10-04": {
+   "basis": "reconciled",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 21,
+     "pageviews": 28,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 1,
+     "pageviews": 6,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 4,
+     "pageviews": 4,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 1,
+     "pageviews": 2,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 4,
+     "pageviews": 4,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 5,
+     "pageviews": 5,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "blockchainlab.com": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 4,
+     "pageviews": 4,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 5,
+     "pageviews": 5,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 4,
+     "pageviews": 6,
+     "ok": true
+    },
+    "halalswitch.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "partywallsurvey.uk": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "equityperpetual.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "altvaults.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "aisales.news": {
      "visitors": null,
      "pageviews": null,
      "ok": false
