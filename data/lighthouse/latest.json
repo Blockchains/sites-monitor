@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-05T12:28:33Z",
+ "checked_at": "2026-10-06T12:13:47Z",
  "threshold": 50,
  "results": [
   {
@@ -7,7 +7,7 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 62,
+    "performance": 58,
     "accessibility": 100,
     "best-practices": 79,
     "seo": 100
@@ -15,7 +15,7 @@
    "metrics": {
     "LCP": "3.6\u00a0s",
     "CLS": "0.054",
-    "TBT": "780\u00a0ms",
+    "TBT": "1,190\u00a0ms",
     "FCP": "3.1\u00a0s"
    },
    "form_factor": "mobile",
@@ -45,15 +45,15 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 77,
+    "performance": 79,
     "accessibility": 96,
     "best-practices": 79,
     "seo": 100
    },
    "metrics": {
-    "LCP": "3.9\u00a0s",
+    "LCP": "3.8\u00a0s",
     "CLS": "0",
-    "TBT": "180\u00a0ms",
+    "TBT": "160\u00a0ms",
     "FCP": "3.6\u00a0s"
    },
    "form_factor": "mobile",
@@ -70,9 +70,9 @@
     "seo": 100
    },
    "metrics": {
-    "LCP": "3.7\u00a0s",
+    "LCP": "3.8\u00a0s",
     "CLS": "0",
-    "TBT": "10\u00a0ms",
+    "TBT": "20\u00a0ms",
     "FCP": "3.5\u00a0s"
    },
    "form_factor": "mobile",
@@ -89,7 +89,7 @@
     "seo": 100
    },
    "metrics": {
-    "LCP": "2.7\u00a0s",
+    "LCP": "2.6\u00a0s",
     "CLS": "0",
     "TBT": "20\u00a0ms",
     "FCP": "2.4\u00a0s"
@@ -110,7 +110,7 @@
    "metrics": {
     "LCP": "3.5\u00a0s",
     "CLS": "0.145",
-    "TBT": "0\u00a0ms",
+    "TBT": "10\u00a0ms",
     "FCP": "3.5\u00a0s"
    },
    "form_factor": "mobile",
@@ -121,16 +121,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 80,
+    "performance": 85,
     "accessibility": 92,
     "best-practices": 79,
     "seo": 100
    },
    "metrics": {
-    "LCP": "3.8\u00a0s",
+    "LCP": "3.4\u00a0s",
     "CLS": "0",
-    "TBT": "10\u00a0ms",
-    "FCP": "3.7\u00a0s"
+    "TBT": "30\u00a0ms",
+    "FCP": "3.2\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -146,7 +146,7 @@
     "seo": 100
    },
    "metrics": {
-    "LCP": "4.8\u00a0s",
+    "LCP": "4.6\u00a0s",
     "CLS": "0.001",
     "TBT": "0\u00a0ms",
     "FCP": "4.2\u00a0s"
@@ -165,10 +165,10 @@
     "seo": 100
    },
    "metrics": {
-    "LCP": "9.4\u00a0s",
+    "LCP": "9.6\u00a0s",
     "CLS": "0.016",
     "TBT": "0\u00a0ms",
-    "FCP": "7.6\u00a0s"
+    "FCP": "7.8\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -178,7 +178,7 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 60,
+    "performance": 59,
     "accessibility": 100,
     "best-practices": 79,
     "seo": 100
@@ -186,52 +186,14 @@
    "metrics": {
     "LCP": "5.7\u00a0s",
     "CLS": "0",
-    "TBT": "40\u00a0ms",
-    "FCP": "5.4\u00a0s"
+    "TBT": "130\u00a0ms",
+    "FCP": "4.9\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
   },
   {
    "domain": "halal.coupons",
-   "locked": false,
-   "error": null,
-   "scores": {
-    "performance": 63,
-    "accessibility": 96,
-    "best-practices": 79,
-    "seo": 100
-   },
-   "metrics": {
-    "LCP": "18.8\u00a0s",
-    "CLS": "0.018",
-    "TBT": "0\u00a0ms",
-    "FCP": "4.7\u00a0s"
-   },
-   "form_factor": "mobile",
-   "runs": 1
-  },
-  {
-   "domain": "regulationcryptoasset.com",
-   "locked": false,
-   "error": null,
-   "scores": {
-    "performance": 70,
-    "accessibility": 92,
-    "best-practices": 79,
-    "seo": 100
-   },
-   "metrics": {
-    "LCP": "5.2\u00a0s",
-    "CLS": "0.006",
-    "TBT": "0\u00a0ms",
-    "FCP": "4.4\u00a0s"
-   },
-   "form_factor": "mobile",
-   "runs": 1
-  },
-  {
-   "domain": "onetouchswitch.com",
    "locked": false,
    "error": null,
    "scores": {
@@ -242,9 +204,47 @@
    },
    "metrics": {
     "LCP": "4.9\u00a0s",
+    "CLS": "0.018",
+    "TBT": "0\u00a0ms",
+    "FCP": "4.6\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "regulationcryptoasset.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 72,
+    "accessibility": 92,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "4.7\u00a0s",
+    "CLS": "0.006",
+    "TBT": "0\u00a0ms",
+    "FCP": "4.5\u00a0s"
+   },
+   "form_factor": "mobile",
+   "runs": 1
+  },
+  {
+   "domain": "onetouchswitch.com",
+   "locked": false,
+   "error": null,
+   "scores": {
+    "performance": 67,
+    "accessibility": 96,
+    "best-practices": 79,
+    "seo": 100
+   },
+   "metrics": {
+    "LCP": "5.5\u00a0s",
     "CLS": "0.003",
     "TBT": "0\u00a0ms",
-    "FCP": "4.9\u00a0s"
+    "FCP": "5.1\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -262,8 +262,8 @@
    "metrics": {
     "LCP": "4.0\u00a0s",
     "CLS": "0",
-    "TBT": "100\u00a0ms",
-    "FCP": "2.0\u00a0s"
+    "TBT": "120\u00a0ms",
+    "FCP": "2.1\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -273,16 +273,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 82,
+    "performance": 81,
     "accessibility": 96,
     "best-practices": 79,
     "seo": 91
    },
    "metrics": {
-    "LCP": "3.6\u00a0s",
+    "LCP": "3.7\u00a0s",
     "CLS": "0.025",
     "TBT": "0\u00a0ms",
-    "FCP": "3.5\u00a0s"
+    "FCP": "3.7\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -292,16 +292,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 62,
+    "performance": 85,
     "accessibility": 100,
     "best-practices": 79,
     "seo": 100
    },
    "metrics": {
-    "LCP": "5.6\u00a0s",
-    "CLS": "0.002",
+    "LCP": "3.4\u00a0s",
+    "CLS": "0.031",
     "TBT": "0\u00a0ms",
-    "FCP": "5.6\u00a0s"
+    "FCP": "3.4\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -311,15 +311,15 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 79,
+    "performance": 85,
     "accessibility": 100,
     "best-practices": 79,
     "seo": 100
    },
    "metrics": {
-    "LCP": "4.1\u00a0s",
+    "LCP": "3.4\u00a0s",
     "CLS": "0.069",
-    "TBT": "30\u00a0ms",
+    "TBT": "20\u00a0ms",
     "FCP": "3.2\u00a0s"
    },
    "form_factor": "mobile",
@@ -330,15 +330,15 @@
    "locked": true,
    "error": null,
    "scores": {
-    "performance": 86,
+    "performance": 83,
     "accessibility": 100,
     "best-practices": 79,
     "seo": 100
    },
    "metrics": {
-    "LCP": "3.4\u00a0s",
-    "CLS": "0",
-    "TBT": "0\u00a0ms",
+    "LCP": "3.9\u00a0s",
+    "CLS": "0.021",
+    "TBT": "10\u00a0ms",
     "FCP": "2.9\u00a0s"
    },
    "form_factor": "mobile",
