@@ -4,14 +4,14 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "99 links checked, none broken"
+  "detail": "107 links checked, none broken"
  },
  {
   "domain": "grokskill.com",
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "239 links checked, none broken"
+  "detail": "250 links checked, none broken"
  },
  {
   "domain": "induscript.com",
@@ -60,7 +60,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "444 links checked, none broken"
+  "detail": "282 links checked, none broken"
  },
  {
   "domain": "rcapad.com",
@@ -74,7 +74,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "227 links checked, none broken"
+  "detail": "226 links checked, none broken"
  },
  {
   "domain": "regulationcryptoasset.com",
@@ -88,7 +88,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "53 links checked, none broken"
+  "detail": "94 links checked, none broken"
  },
  {
   "domain": "halalswitch.com",
@@ -116,7 +116,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "79 links checked, none broken"
+  "detail": "87 links checked, none broken"
  },
  {
   "domain": "aisales.news",

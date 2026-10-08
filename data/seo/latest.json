@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-07T11:47:11Z",
+ "checked_at": "2026-10-08T12:01:38Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -12,7 +12,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": true,
+    "og_url_on_domain": false,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -25,11 +25,13 @@
     "canonical": "https://grokhack.com/",
     "og:title": "The Grok Hack \u2014 Global 30-Day Hackathon by Grok",
     "og:description": "The world's first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
-    "og:image": "https://grokhack.com/og.jpg",
-    "og:url": "https://grokhack.com/"
+    "og:image": "https://agentics.grok.me/og.jpg",
+    "og:url": ""
    },
-   "failed": [],
-   "ok": true
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
   },
   {
    "domain": "grokskill.com",
@@ -42,7 +44,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": true,
+    "og_url_on_domain": false,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -55,11 +57,13 @@
     "canonical": "https://grokskill.com/",
     "og:title": "GrokSkill \u2014 The live directory of Grok skills",
     "og:description": "Fifty Grok skills you can run in the browser or install. Each one is a method, a deliverable, and a SKILL.md file. No sign-in.",
-    "og:image": "https://grokskill.com/og.jpg",
-    "og:url": "https://grokskill.com/"
+    "og:image": "https://intelligent.grok.me/og.jpg",
+    "og:url": ""
    },
-   "failed": [],
-   "ok": true
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
   },
   {
    "domain": "induscript.com",
@@ -261,7 +265,7 @@
    },
    "values": {
     "title": "Blockchain Lab | Global Venture Studio & Digital Asset Development Lab",
-    "description": "Blockchain Lab explains how blockchain systems work, what changed in practice, and how founders and institutions build programmable infrastructure. A venture studio and a research library. Not a trading venue.",
+    "description": "Blockchain Lab explains how blockchain systems work, what changed in practice, and how founders and institutions build programmable infrastructure.",
     "canonical": "https://blockchainlab.com/",
     "og:title": "Blockchain Lab",
     "og:description": "Blockchain Lab is a global venture studio and digital asset development lab. Careers Intelligence reads the company, founders, funding, and the work, before you apply.",
@@ -316,7 +320,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -329,13 +333,11 @@
     "canonical": "https://halal.coupons/",
     "og:title": "Halal.Coupons \u2014 Verified Halal Deals by City",
     "og:description": "Verified halal and Muslim-friendly offers by country and city \u2014 online and in person. No fake timers.",
-    "og:image": "https://shariah.grok.me/og.jpg",
-    "og:url": ""
+    "og:image": "https://halal.coupons/og.jpg",
+    "og:url": "https://halal.coupons/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "regulationcryptoasset.com",
@@ -380,7 +382,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -393,13 +395,11 @@
     "canonical": "https://onetouchswitch.com/",
     "og:title": "One Touch Switch | Compare UK Broadband",
     "og:description": "Compare UK broadband at your address. One Touch Switch means your new provider runs the change. Independent \u2014 not Ofcom or a network.",
-    "og:image": "https://touch.grok.me/og.jpg",
-    "og:url": ""
+    "og:image": "https://onetouchswitch.com/og.jpg",
+    "og:url": "https://onetouchswitch.com/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "halalswitch.com",
@@ -507,7 +507,7 @@
    "checks": {
     "title": true,
     "description": true,
-    "canonical_on_domain": false,
+    "canonical_on_domain": true,
     "og_title": true,
     "og_description": true,
     "og_image": true,
@@ -521,14 +521,13 @@
    "values": {
     "title": "AltVaults | The Operating System for Investment Vaults",
     "description": "AltVaults enables institutions to launch, operate, distribute and route digitally operable investment vaults across private markets, tokenised assets and DeFi.",
-    "canonical": "",
+    "canonical": "https://altvaults.com",
     "og:title": "AltVaults",
     "og:description": "The operating system for alternative capital",
     "og:image": "https://vaults.grok.me/og.jpg",
     "og:url": ""
    },
    "failed": [
-    "canonical_on_domain",
     "og_url_on_domain"
    ],
    "ok": false

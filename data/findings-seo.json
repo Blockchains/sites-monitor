@@ -2,16 +2,16 @@
  {
   "domain": "grokhack.com",
   "check": "seo",
-  "ok": true,
+  "ok": false,
   "skip_issue": false,
-  "detail": "All SEO basics present"
+  "detail": "HTTP 200; failing: og_url_on_domain"
  },
  {
   "domain": "grokskill.com",
   "check": "seo",
-  "ok": true,
+  "ok": false,
   "skip_issue": false,
-  "detail": "All SEO basics present"
+  "detail": "HTTP 200; failing: og_url_on_domain"
  },
  {
   "domain": "induscript.com",
@@ -72,9 +72,9 @@
  {
   "domain": "halal.coupons",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "regulationcryptoasset.com",
@@ -86,9 +86,9 @@
  {
   "domain": "onetouchswitch.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "halalswitch.com",
@@ -116,7 +116,7 @@
   "check": "seo",
   "ok": false,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: canonical_on_domain, og_url_on_domain"
+  "detail": "HTTP 200; failing: og_url_on_domain"
  },
  {
   "domain": "aisales.news",
