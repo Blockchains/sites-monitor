@@ -60,7 +60,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "282 links checked, none broken"
+  "detail": "290 links checked, none broken"
  },
  {
   "domain": "rcapad.com",
