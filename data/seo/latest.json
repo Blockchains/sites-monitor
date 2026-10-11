@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-10T11:10:55Z",
+ "checked_at": "2026-10-11T11:24:23Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -382,7 +382,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": true,
+    "og_url_on_domain": false,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -390,16 +390,18 @@
     "manifest": true
    },
    "values": {
-    "title": "One Touch Switch | Compare UK Broadband",
-    "description": "Compare UK broadband at your address. One Touch Switch means your new provider runs the change. Independent \u2014 not Ofcom or a network.",
+    "title": "Compare Broadband & Full Fibre | One Touch Switch",
+    "description": "Check options for your address, compare contract costs, and see whether to switch, renew or stay. One Touch Switch.",
     "canonical": "https://onetouchswitch.com/",
     "og:title": "One Touch Switch | Compare UK Broadband",
     "og:description": "Compare UK broadband at your address. One Touch Switch means your new provider runs the change. Independent \u2014 not Ofcom or a network.",
-    "og:image": "https://onetouchswitch.com/og.jpg",
-    "og:url": "https://onetouchswitch.com/"
+    "og:image": "https://touch.grok.me/og.jpg",
+    "og:url": ""
    },
-   "failed": [],
-   "ok": true
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
   },
   {
    "domain": "halalswitch.com",

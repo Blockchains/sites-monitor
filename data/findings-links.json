@@ -9,9 +9,9 @@
  {
   "domain": "grokskill.com",
   "check": "broken-links",
-  "ok": true,
+  "ok": false,
   "skip_issue": false,
-  "detail": "250 links checked, none broken"
+  "detail": "no lychee report (FileNotFoundError)"
  },
  {
   "domain": "induscript.com",
@@ -88,7 +88,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "94 links checked, none broken"
+  "detail": "82 links checked, none broken"
  },
  {
   "domain": "halalswitch.com",
