@@ -4,21 +4,21 @@
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 62, accessibility 100, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 58, accessibility 100, best-practices 79, seo 100"
  },
  {
   "domain": "grokskill.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 73, accessibility 97, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 76, accessibility 97, best-practices 79, seo 100"
  },
  {
   "domain": "induscript.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 73, accessibility 96, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 78, accessibility 96, best-practices 79, seo 100"
  },
  {
   "domain": "11plus.college",
@@ -32,14 +32,14 @@
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 93, accessibility 96, best-practices 96, seo 100"
+  "detail": "Mobile scores: performance 95, accessibility 96, best-practices 96, seo 100"
  },
  {
   "domain": "gpu.skin",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 76, accessibility 95, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 74, accessibility 95, best-practices 79, seo 100"
  },
  {
   "domain": "agenticoins.com",
@@ -53,76 +53,76 @@
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 95, accessibility 96, best-practices 75, seo 100"
+  "detail": "Mobile scores: performance 79, accessibility 96, best-practices 75, seo 100"
  },
  {
   "domain": "blockchainlab.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 57, accessibility 96, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 56, accessibility 96, best-practices 79, seo 100"
  },
  {
   "domain": "rcapad.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 62, accessibility 100, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 57, accessibility 100, best-practices 79, seo 100"
  },
  {
   "domain": "halal.coupons",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 66, accessibility 96, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 64, accessibility 96, best-practices 79, seo 100"
  },
  {
   "domain": "regulationcryptoasset.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 70, accessibility 92, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 68, accessibility 92, best-practices 79, seo 100"
  },
  {
   "domain": "onetouchswitch.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 81, accessibility 96, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 77, accessibility 96, best-practices 79, seo 100"
  },
  {
   "domain": "halalswitch.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 91, accessibility 100, best-practices 75, seo 100"
+  "detail": "Mobile scores: performance 85, accessibility 100, best-practices 75, seo 100"
  },
  {
   "domain": "partywallsurvey.uk",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 95, accessibility 96, best-practices 79, seo 91"
+  "detail": "Mobile scores: performance 81, accessibility 96, best-practices 79, seo 91"
  },
  {
   "domain": "equityperpetual.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 81, accessibility 100, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 87, accessibility 100, best-practices 79, seo 100"
  },
  {
   "domain": "altvaults.com",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": false,
-  "detail": "Mobile scores: performance 91, accessibility 100, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 84, accessibility 100, best-practices 79, seo 100"
  },
  {
   "domain": "aisales.news",
   "check": "lighthouse",
   "ok": true,
   "skip_issue": true,
-  "detail": "Mobile scores: performance 96, accessibility 100, best-practices 79, seo 100"
+  "detail": "Mobile scores: performance 90, accessibility 100, best-practices 79, seo 100"
  }
 ]

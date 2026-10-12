@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-11T11:26:23Z",
+ "checked_at": "2026-10-12T13:12:24Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -15,7 +15,13 @@
   {
    "domain": "grokskill.com",
    "locked": false,
-   "error": "no lychee report (FileNotFoundError)"
+   "error": null,
+   "total": 250,
+   "successful": 250,
+   "errors": 0,
+   "excludes": 0,
+   "timeouts": 0,
+   "broken": []
   },
   {
    "domain": "induscript.com",
@@ -136,8 +142,8 @@
    "domain": "onetouchswitch.com",
    "locked": false,
    "error": null,
-   "total": 82,
-   "successful": 82,
+   "total": 84,
+   "successful": 84,
    "errors": 0,
    "excludes": 0,
    "timeouts": 0,
