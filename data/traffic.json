@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T15:49:08Z",
+ "updated_at": "2026-10-12T06:58:49Z",
  "note": "Aggregate daily visitors/pageviews per domain (24h window ending at digest time, Europe/London date). basis=reconciled: digest reconciliation of live feed + ledger; basis=endpoint: /api/pulse 24h counters.",
  "days": {
   "2026-09-27": {
@@ -603,6 +603,116 @@
     "onetouchswitch.com": {
      "visitors": 3,
      "pageviews": 11,
+     "ok": true
+    },
+    "halalswitch.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "partywallsurvey.uk": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "equityperpetual.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "altvaults.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "aisales.news": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "trifoldable.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "sb9split.com": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "memecoin.markets": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    }
+   }
+  },
+  "2026-10-12": {
+   "basis": "reconciled",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 16,
+     "pageviews": 17,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 2,
+     "pageviews": 3,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 3,
+     "pageviews": 4,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 1,
+     "pageviews": 10,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "blockchainlab.com": {
+     "visitors": 20,
+     "pageviews": 50,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 4,
+     "pageviews": 4,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 8,
+     "pageviews": 18,
      "ok": true
     },
     "halalswitch.com": {
