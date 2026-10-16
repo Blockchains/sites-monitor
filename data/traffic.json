@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T07:01:44Z",
+ "updated_at": "2026-10-16T07:03:16Z",
  "note": "Aggregate daily visitors/pageviews per domain (24h window ending at digest time, Europe/London date). basis=reconciled: digest reconciliation of live feed + ledger; basis=endpoint: /api/pulse 24h counters.",
  "days": {
   "2026-09-27": {
@@ -864,6 +864,121 @@
      "visitors": null,
      "pageviews": null,
      "ok": false
+    }
+   }
+  },
+  "2026-10-16": {
+   "basis": "reconciled",
+   "domains": {
+    "grokhack.com": {
+     "visitors": 13,
+     "pageviews": 13,
+     "ok": true
+    },
+    "grokskill.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "induscript.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "11plus.college": {
+     "visitors": 1,
+     "pageviews": 1,
+     "ok": true
+    },
+    "hackers.college": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "gpu.skin": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "agenticoins.com": {
+     "visitors": 3,
+     "pageviews": 3,
+     "ok": true
+    },
+    "land.solar": {
+     "visitors": 4,
+     "pageviews": 4,
+     "ok": true
+    },
+    "blockchainlab.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "rcapad.com": {
+     "visitors": 20,
+     "pageviews": 19,
+     "ok": true
+    },
+    "halal.coupons": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "regulationcryptoasset.com": {
+     "visitors": 7,
+     "pageviews": 7,
+     "ok": true
+    },
+    "onetouchswitch.com": {
+     "visitors": 6,
+     "pageviews": 9,
+     "ok": true
+    },
+    "halalswitch.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "partywallsurvey.uk": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "equityperpetual.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "altvaults.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "aisales.news": {
+     "visitors": null,
+     "pageviews": null,
+     "ok": false
+    },
+    "trifoldable.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "sb9split.com": {
+     "visitors": 0,
+     "pageviews": 0,
+     "ok": true
+    },
+    "memecoin.markets": {
+     "visitors": 2,
+     "pageviews": 2,
+     "ok": true
+    },
+    "monadefi.com": {
+     "visitors": 16,
+     "pageviews": 16,
+     "ok": true
     }
    }
   }
