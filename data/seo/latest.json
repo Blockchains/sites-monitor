@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-15T09:54:23Z",
+ "checked_at": "2026-10-16T09:48:31Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -12,7 +12,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -24,14 +24,12 @@
     "description": "The world's first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
     "canonical": "https://grokhack.com/",
     "og:title": "The Grok Hack \u2014 Global 30-Day Hackathon by Grok",
-    "og:description": "The world's first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
-    "og:image": "https://agentics.grok.me/og.jpg",
-    "og:url": ""
+    "og:description": "The world&#x27;s first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
+    "og:image": "https://grokhack.com/og.jpg",
+    "og:url": "https://grokhack.com/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "grokskill.com",
@@ -44,7 +42,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -57,13 +55,11 @@
     "canonical": "https://grokskill.com/",
     "og:title": "GrokSkill \u2014 The live directory of Grok skills",
     "og:description": "Fifty Grok skills you can run in the browser or install. Each one is a method, a deliverable, and a SKILL.md file. No sign-in.",
-    "og:image": "https://intelligent.grok.me/og.jpg",
-    "og:url": ""
+    "og:image": "https://grokskill.com/og.jpg",
+    "og:url": "https://grokskill.com/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "induscript.com",
@@ -84,10 +80,10 @@
     "manifest": true
    },
    "values": {
-    "title": "Induscript \u2014 Indus Script Research & Decoding",
+    "title": "Induscript \u2014 Sign 017 Script Research",
     "description": "An open, evidence-led research platform for the Indus script and the possible language(s) behind it. Explore inscriptions, methods, and hypotheses.",
     "canonical": "https://induscript.com/",
-    "og:title": "Induscript \u2014 Indus Script Research & Decoding",
+    "og:title": "Induscript \u2014 Sign 017 Script Research",
     "og:description": "An open, evidence-led research platform for the Indus script and the possible language(s) behind it. Explore inscriptions, methods, and hypotheses.",
     "og:image": "https://induscript.com/og.jpg",
     "og:url": "https://induscript.com/"
@@ -117,7 +113,7 @@
     "title": "11Plus.College \u2014 Master English. Unlock Your Adventure.",
     "description": "An immersive English-learning adventure that helps children build vocabulary, crack comprehension, write brilliantly and prepare for the 11+ with confidence.",
     "canonical": "https://11plus.college/",
-    "og:title": "11Plus.College",
+    "og:title": "11Plus.College \u2014 Master English. Unlock Your Adventure.",
     "og:description": "An immersive English-learning adventure that helps children build vocabulary, crack comprehension, write brilliantly and prepare for the 11+ with confidence.",
     "og:image": "https://11plus.college/og.jpg",
     "og:url": "https://11plus.college/"
@@ -144,11 +140,11 @@
     "manifest": true
    },
    "values": {
-    "title": "HACKERS \u2014 See Around Corners | Selective College for Ethical Systems Thinkers",
-    "description": "HACKERS is a selective college for ethical problem-solvers. Study seventeen Hack Atlas studios, train SCAN / FLIP / BUILD / BREAK / PROVE, and wear HACKERS Supply. File 001: permission chains. File 018: trust-graph calculus.",
+    "title": "HACKERS signal mark \u2014 See around corners",
+    "description": "Selective London college for ethical systems thinkers. Hack Atlas studios, the SCAN to PROVE method, and HACKERS Supply.",
     "canonical": "https://hackers.college/",
-    "og:title": "HACKERS \u2014 See Around Corners | Selective College for Ethical Systems Thinkers",
-    "og:description": "HACKERS is a selective college for ethical problem-solvers. Study seventeen Hack Atlas studios, train SCAN / FLIP / BUILD / BREAK / PROVE, and wear HACKERS Supply. File 001: permission chains. File 018: trust-graph calculus.",
+    "og:title": "HACKERS signal mark \u2014 See around corners",
+    "og:description": "Selective London college for ethical systems thinkers. Hack Atlas studios, the SCAN to PROVE method, and HACKERS Supply.",
     "og:image": "https://hackers.college/og.jpg",
     "og:url": "https://hackers.college/"
    },
@@ -175,10 +171,10 @@
    },
    "values": {
     "title": "GPU.Skin \u2014 Your Skin, Upgraded",
-    "description": "GPU.Skin personalizes skincare with high-compute analysis \u2014 clearer routines, better matches, skin upgraded for you.",
+    "description": "GPU.Skin personalizes skincare with high-compute analysis \u2014 clearer routines, better product matches, skin upgraded for you.",
     "canonical": "https://gpu.skin/",
     "og:title": "GPU.Skin \u2014 Your Skin, Upgraded",
-    "og:description": "GPU.Skin personalizes skincare with high-compute analysis \u2014 clearer routines, better matches, skin upgraded for you.",
+    "og:description": "GPU.Skin personalizes skincare with high-compute analysis \u2014 clearer routines, better product matches, skin upgraded for you.",
     "og:image": "https://gpu.skin/og.jpg",
     "og:url": "https://gpu.skin/"
    },
@@ -264,7 +260,7 @@
     "manifest": true
    },
    "values": {
-    "title": "Blockchain Lab | Global Venture Studio & Digital Asset Development Lab",
+    "title": "Blockchain Lab | Digital Asset Venture Studio",
     "description": "Blockchain Lab explains how blockchain systems work, what changed in practice, and how founders and institutions build programmable infrastructure.",
     "canonical": "https://blockchainlab.com/",
     "og:title": "Blockchain Lab",
@@ -288,7 +284,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -297,17 +293,15 @@
    },
    "values": {
     "title": "RCA Pad \u2014 Crypto Regulation Briefings",
-    "description": "Clear crypto regulation briefings and RCA context \u2014 track digital-asset rules, compliance signals, and what changed.",
+    "description": "Clear crypto regulation briefings and RCA context \u2014 track digital-asset rules, MiCA, compliance signals, and what changed this week.",
     "canonical": "https://rcapad.com/",
     "og:title": "RCA Pad \u2014 Crypto Regulation Briefings",
-    "og:description": "Clear crypto regulation briefings and RCA context \u2014 track digital-asset rules, compliance signals, and what changed.",
-    "og:image": "https://regca.grok.me/og.jpg",
-    "og:url": ""
+    "og:description": "Clear crypto regulation briefings and RCA context \u2014 track digital-asset rules, MiCA, compliance signals, and what changed this week.",
+    "og:image": "https://rcapad.com/og.jpg",
+    "og:url": "https://rcapad.com/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "halal.coupons",
@@ -350,7 +344,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -363,13 +357,11 @@
     "canonical": "https://regulationcryptoasset.com/",
     "og:title": "Regulation Crypto Assets \u2014 briefing desk",
     "og:description": "Independent intelligence for regulated digital assets \u2014 curated primary-source content, issuer research and regulatory context.",
-    "og:image": "https://rca.grok.me/og.jpg",
-    "og:url": ""
+    "og:image": "https://regulationcryptoasset.com/og.jpg",
+    "og:url": "https://regulationcryptoasset.com/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "onetouchswitch.com",
@@ -382,7 +374,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -391,17 +383,15 @@
    },
    "values": {
     "title": "Compare Broadband & Full Fibre | One Touch Switch",
-    "description": "Check options for your address, compare contract costs, and see whether to switch, renew or stay. One Touch Switch.",
+    "description": "Compare UK broadband and full fibre for your home. Check the contract cost, then decide whether to switch, renew or stay with One Touch Switch.",
     "canonical": "https://onetouchswitch.com/",
-    "og:title": "One Touch Switch | Compare UK Broadband",
-    "og:description": "Compare UK broadband at your address. One Touch Switch means your new provider runs the change. Independent \u2014 not Ofcom or a network.",
-    "og:image": "https://touch.grok.me/og.jpg",
-    "og:url": ""
+    "og:title": "Compare Broadband & Full Fibre | One Touch Switch",
+    "og:description": "Compare UK broadband and full fibre for your home. Check the contract cost, then decide whether to switch, renew or stay with One Touch Switch.",
+    "og:image": "https://onetouchswitch.com/og.jpg",
+    "og:url": "https://onetouchswitch.com/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "halalswitch.com",
@@ -440,11 +430,11 @@
    "checks": {
     "title": true,
     "description": true,
-    "canonical_on_domain": false,
+    "canonical_on_domain": true,
     "og_title": true,
-    "og_description": false,
+    "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -454,18 +444,14 @@
    "values": {
     "title": "PartyWallSurvey.uk \u2014 Notices, surveyors and Awards",
     "description": "Clear next steps for Party Wall Notices, surveyors and Awards in London and the Home Counties. Human professional review. England and Wales only.",
-    "canonical": "",
+    "canonical": "https://partywallsurvey.uk/",
     "og:title": "PartyWallSurvey.uk",
-    "og:description": "",
-    "og:image": "https://partywall.grok.me/og.jpg",
-    "og:url": ""
+    "og:description": "Clear next steps for Party Wall Notices, surveyors and Awards in London and the Home Counties. Human professional review. England and Wales only.",
+    "og:image": "https://partywallsurvey.uk/og.jpg",
+    "og:url": "https://partywallsurvey.uk/"
    },
-   "failed": [
-    "canonical_on_domain",
-    "og_description",
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "equityperpetual.com",
@@ -476,11 +462,11 @@
     "description": true,
     "canonical_on_domain": true,
     "og_title": true,
-    "og_description": false,
+    "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
-    "robots_txt": false,
-    "sitemap": false,
+    "og_url_on_domain": true,
+    "robots_txt": true,
+    "sitemap": true,
     "favicon": true,
     "apple_touch_icon": true,
     "manifest": true
@@ -489,18 +475,13 @@
     "title": "EPIC \u00b7 Understand equity perpetual markets",
     "description": "The independent intelligence layer for equity perpetual markets. Compare funding, basis, contract terms, venue risk and market-closure conditions.",
     "canonical": "https://equityperpetual.com/",
-    "og:title": "EPIC",
-    "og:description": "",
-    "og:image": "https://xenon-lion-clover-horizon.grok.me/og.jpg",
-    "og:url": ""
+    "og:title": "EPIC \u00b7 Equity Perpetuals Intelligence",
+    "og:description": "The independent intelligence layer for equity perpetual markets. Funding, basis, reference quality, contract terms and venue disclosures.",
+    "og:image": "https://equityperpetual.com/og.jpg",
+    "og:url": "https://equityperpetual.com/"
    },
-   "failed": [
-    "og_description",
-    "og_url_on_domain",
-    "robots_txt",
-    "sitemap"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "altvaults.com",
@@ -513,7 +494,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": false,
+    "og_url_on_domain": true,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -526,13 +507,11 @@
     "canonical": "https://altvaults.com",
     "og:title": "AltVaults",
     "og:description": "The operating system for alternative capital",
-    "og:image": "https://vaults.grok.me/og.jpg",
-    "og:url": ""
+    "og:image": "https://altvaults.com/og.jpg",
+    "og:url": "https://altvaults.com/"
    },
-   "failed": [
-    "og_url_on_domain"
-   ],
-   "ok": false
+   "failed": [],
+   "ok": true
   },
   {
    "domain": "aisales.news",

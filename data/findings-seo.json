@@ -2,16 +2,16 @@
  {
   "domain": "grokhack.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "grokskill.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "induscript.com",
@@ -65,9 +65,9 @@
  {
   "domain": "rcapad.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "halal.coupons",
@@ -79,16 +79,16 @@
  {
   "domain": "regulationcryptoasset.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "onetouchswitch.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "halalswitch.com",
@@ -100,23 +100,23 @@
  {
   "domain": "partywallsurvey.uk",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: canonical_on_domain, og_description, og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "equityperpetual.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_description, og_url_on_domain, robots_txt, sitemap"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "altvaults.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "aisales.news",
