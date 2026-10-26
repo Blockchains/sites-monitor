@@ -3,97 +3,97 @@
   "domain": "grokhack.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 348 ms"
+  "detail": "HTTP 200 in 251 ms"
  },
  {
   "domain": "grokhack.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-04T21:40:27Z (39.6 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-04T21:40:27Z (39.3 days left; threshold 14)"
  },
  {
   "domain": "grokskill.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 737 ms"
+  "detail": "HTTP 200 in 338 ms"
  },
  {
   "domain": "grokskill.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-17T16:23:14Z (52.4 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-17T16:23:14Z (52.1 days left; threshold 14)"
  },
  {
   "domain": "induscript.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 451 ms"
+  "detail": "HTTP 200 in 381 ms"
  },
  {
   "domain": "induscript.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-19T17:06:07Z (54.4 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-19T17:06:07Z (54.1 days left; threshold 14)"
  },
  {
   "domain": "11plus.college",
+  "check": "uptime",
+  "ok": true,
+  "detail": "HTTP 200 in 755 ms"
+ },
+ {
+  "domain": "11plus.college",
+  "check": "tls",
+  "ok": true,
+  "detail": "Certificate expires 2026-12-12T17:54:04Z (47.2 days left; threshold 14)"
+ },
+ {
+  "domain": "hackers.college",
   "check": "uptime",
   "ok": true,
   "detail": "HTTP 200 in 465 ms"
  },
  {
-  "domain": "11plus.college",
-  "check": "tls",
-  "ok": true,
-  "detail": "Certificate expires 2026-12-12T17:54:04Z (47.5 days left; threshold 14)"
- },
- {
-  "domain": "hackers.college",
-  "check": "uptime",
-  "ok": true,
-  "detail": "HTTP 200 in 691 ms"
- },
- {
   "domain": "hackers.college",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-13T22:35:46Z (48.7 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-13T22:35:46Z (48.4 days left; threshold 14)"
  },
  {
   "domain": "gpu.skin",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 594 ms"
+  "detail": "HTTP 200 in 428 ms"
  },
  {
   "domain": "gpu.skin",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-14T02:17:02Z (48.8 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-14T02:17:02Z (48.5 days left; threshold 14)"
  },
  {
   "domain": "agenticoins.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 309 ms"
+  "detail": "HTTP 200 in 356 ms"
  },
  {
   "domain": "agenticoins.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-12T16:45:07Z (47.4 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-12T16:45:07Z (47.1 days left; threshold 14)"
  },
  {
   "domain": "land.solar",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 697 ms"
+  "detail": "HTTP 200 in 560 ms"
  },
  {
   "domain": "land.solar",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-12T16:06:45Z (47.4 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-12T16:06:45Z (47.1 days left; threshold 14)"
  },
  {
   "domain": "blockchainlab.com",
@@ -105,114 +105,114 @@
   "domain": "blockchainlab.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-29T07:08:44Z (64.0 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-29T07:08:44Z (63.7 days left; threshold 14)"
  },
  {
   "domain": "rcapad.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 486 ms"
+  "detail": "HTTP 200 in 388 ms"
  },
  {
   "domain": "rcapad.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-12T19:00:51Z (47.5 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-12T19:00:51Z (47.2 days left; threshold 14)"
  },
  {
   "domain": "halal.coupons",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 443 ms"
+  "detail": "HTTP 200 in 450 ms"
  },
  {
   "domain": "halal.coupons",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-12T14:12:50Z (47.3 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-12T14:12:50Z (47.0 days left; threshold 14)"
  },
  {
   "domain": "regulationcryptoasset.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 356 ms"
+  "detail": "HTTP 200 in 378 ms"
  },
  {
   "domain": "regulationcryptoasset.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-12T15:52:22Z (47.4 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-12T15:52:22Z (47.1 days left; threshold 14)"
  },
  {
   "domain": "onetouchswitch.com",
+  "check": "uptime",
+  "ok": true,
+  "detail": "HTTP 200 in 361 ms"
+ },
+ {
+  "domain": "onetouchswitch.com",
+  "check": "tls",
+  "ok": true,
+  "detail": "Certificate expires 2026-12-12T16:22:15Z (47.1 days left; threshold 14)"
+ },
+ {
+  "domain": "halalswitch.com",
+  "check": "uptime",
+  "ok": true,
+  "detail": "HTTP 200 in 136 ms"
+ },
+ {
+  "domain": "halalswitch.com",
+  "check": "tls",
+  "ok": true,
+  "detail": "Certificate expires 2026-12-14T06:57:05Z (48.7 days left; threshold 14)"
+ },
+ {
+  "domain": "partywallsurvey.uk",
+  "check": "uptime",
+  "ok": true,
+  "detail": "HTTP 200 in 460 ms"
+ },
+ {
+  "domain": "partywallsurvey.uk",
+  "check": "tls",
+  "ok": true,
+  "detail": "Certificate expires 2026-12-26T18:58:05Z (61.2 days left; threshold 14)"
+ },
+ {
+  "domain": "equityperpetual.com",
   "check": "uptime",
   "ok": true,
   "detail": "HTTP 200 in 234 ms"
  },
  {
-  "domain": "onetouchswitch.com",
-  "check": "tls",
-  "ok": true,
-  "detail": "Certificate expires 2026-12-12T16:22:15Z (47.4 days left; threshold 14)"
- },
- {
-  "domain": "halalswitch.com",
-  "check": "uptime",
-  "ok": true,
-  "detail": "HTTP 200 in 129 ms"
- },
- {
-  "domain": "halalswitch.com",
-  "check": "tls",
-  "ok": true,
-  "detail": "Certificate expires 2026-12-14T06:57:05Z (49.0 days left; threshold 14)"
- },
- {
-  "domain": "partywallsurvey.uk",
-  "check": "uptime",
-  "ok": true,
-  "detail": "HTTP 200 in 254 ms"
- },
- {
-  "domain": "partywallsurvey.uk",
-  "check": "tls",
-  "ok": true,
-  "detail": "Certificate expires 2026-12-26T18:58:05Z (61.5 days left; threshold 14)"
- },
- {
-  "domain": "equityperpetual.com",
-  "check": "uptime",
-  "ok": true,
-  "detail": "HTTP 200 in 239 ms"
- },
- {
   "domain": "equityperpetual.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-26T19:09:50Z (61.5 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-26T19:09:50Z (61.2 days left; threshold 14)"
  },
  {
   "domain": "altvaults.com",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 1456 ms"
+  "detail": "HTTP 200 in 1515 ms"
  },
  {
   "domain": "altvaults.com",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-27T18:37:38Z (62.5 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-27T18:37:38Z (62.2 days left; threshold 14)"
  },
  {
   "domain": "aisales.news",
   "check": "uptime",
   "ok": true,
-  "detail": "HTTP 200 in 389 ms"
+  "detail": "HTTP 200 in 266 ms"
  },
  {
   "domain": "aisales.news",
   "check": "tls",
   "ok": true,
-  "detail": "Certificate expires 2026-12-12T19:44:13Z (47.5 days left; threshold 14)"
+  "detail": "Certificate expires 2026-12-12T19:44:13Z (47.3 days left; threshold 14)"
  }
 ]
