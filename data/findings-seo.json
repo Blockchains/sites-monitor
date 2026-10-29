@@ -58,9 +58,9 @@
  {
   "domain": "blockchainlab.com",
   "check": "seo",
-  "ok": false,
+  "ok": true,
   "skip_issue": false,
-  "detail": "HTTP 200; failing: og_url_on_domain"
+  "detail": "All SEO basics present"
  },
  {
   "domain": "rcapad.com",
