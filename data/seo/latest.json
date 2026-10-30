@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-29T11:31:16Z",
+ "checked_at": "2026-10-30T11:24:14Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -252,7 +252,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": true,
+    "og_url_on_domain": false,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -260,16 +260,18 @@
     "manifest": true
    },
    "values": {
-    "title": "Blockchain Lab | Digital Asset Venture Studio",
-    "description": "Blockchain Lab explains how blockchain systems work, what changed in practice, and how founders and institutions build programmable infrastructure.",
+    "title": "Blockchain Lab | Global Venture Studio & Digital Asset Development Lab",
+    "description": "Blockchain Lab explains how blockchain systems work, what changed in practice, and how founders and institutions build programmable infrastructure. A venture studio and a research library. Not a trading venue.",
     "canonical": "https://blockchainlab.com/",
-    "og:title": "Blockchain Lab | Digital Asset Venture Studio",
-    "og:description": "Blockchain Lab explains how blockchain systems work, what changed in practice, and how founders and institutions build programmable infrastructure.",
-    "og:image": "https://blockchainlab.com/og.jpg",
-    "og:url": "https://blockchainlab.com/"
+    "og:title": "Blockchain Lab",
+    "og:description": "Blockchain Lab is a global venture studio and digital asset development lab. We build ventures for the programmable economy.",
+    "og:image": "https://blockchains.grok.me/og.jpg",
+    "og:url": ""
    },
-   "failed": [],
-   "ok": true
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
   },
   {
    "domain": "rcapad.com",

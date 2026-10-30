@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-29T11:33:15Z",
+ "checked_at": "2026-10-30T11:26:07Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -98,8 +98,8 @@
    "domain": "blockchainlab.com",
    "locked": false,
    "error": null,
-   "total": 292,
-   "successful": 290,
+   "total": 184,
+   "successful": 182,
    "errors": 0,
    "excludes": 2,
    "timeouts": 0,
