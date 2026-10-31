@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-30T11:24:14Z",
+ "checked_at": "2026-10-31T10:55:17Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -12,7 +12,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": true,
+    "og_url_on_domain": false,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -24,12 +24,14 @@
     "description": "The world's first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
     "canonical": "https://grokhack.com/",
     "og:title": "The Grok Hack \u2014 Global 30-Day Hackathon by Grok",
-    "og:description": "The world&#x27;s first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
-    "og:image": "https://grokhack.com/og.jpg",
-    "og:url": "https://grokhack.com/"
+    "og:description": "The world's first global hackathon powered by Grok. 30 days in November. Turbocharge a partner platform. Exclusive prize \u00b7 TBA.",
+    "og:image": "https://agentics.grok.me/og.jpg",
+    "og:url": ""
    },
-   "failed": [],
-   "ok": true
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
   },
   {
    "domain": "grokskill.com",

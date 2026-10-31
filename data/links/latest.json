@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-10-30T11:26:07Z",
+ "checked_at": "2026-10-31T10:57:15Z",
  "results": [
   {
    "domain": "grokhack.com",
    "locked": false,
    "error": null,
-   "total": 107,
-   "successful": 107,
+   "total": 106,
+   "successful": 106,
    "errors": 0,
    "excludes": 0,
    "timeouts": 0,

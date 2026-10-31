@@ -4,7 +4,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "107 links checked, none broken"
+  "detail": "106 links checked, none broken"
  },
  {
   "domain": "grokskill.com",
