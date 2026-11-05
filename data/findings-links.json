@@ -88,7 +88,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "87 links checked, none broken"
+  "detail": "89 links checked, none broken"
  },
  {
   "domain": "halalswitch.com",

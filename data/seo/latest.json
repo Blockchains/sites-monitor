@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-04T12:59:03Z",
+ "checked_at": "2026-11-05T13:11:37Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -376,7 +376,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": true,
+    "og_url_on_domain": false,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -389,11 +389,13 @@
     "canonical": "https://onetouchswitch.com/",
     "og:title": "Compare Broadband & Full Fibre | One Touch Switch",
     "og:description": "Compare UK broadband and full fibre for your home. Check the contract cost, then decide whether to switch, renew or stay with One Touch Switch.",
-    "og:image": "https://onetouchswitch.com/og.jpg",
-    "og:url": "https://onetouchswitch.com/"
+    "og:image": "https://touch.grok.me/og.jpg",
+    "og:url": ""
    },
-   "failed": [],
-   "ok": true
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
   },
   {
    "domain": "halalswitch.com",
