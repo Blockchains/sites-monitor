@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-08T11:57:43Z",
+ "checked_at": "2026-11-09T13:56:00Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -109,8 +109,8 @@
    "domain": "rcapad.com",
    "locked": false,
    "error": null,
-   "total": 374,
-   "successful": 374,
+   "total": 376,
+   "successful": 376,
    "errors": 0,
    "excludes": 0,
    "timeouts": 0,

@@ -67,7 +67,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "374 links checked, none broken"
+  "detail": "376 links checked, none broken"
  },
  {
   "domain": "halal.coupons",
