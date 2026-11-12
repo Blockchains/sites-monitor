@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-11T12:42:56Z",
+ "checked_at": "2026-11-12T13:46:01Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -194,7 +194,7 @@
     "og_title": true,
     "og_description": true,
     "og_image": true,
-    "og_url_on_domain": true,
+    "og_url_on_domain": false,
     "robots_txt": true,
     "sitemap": true,
     "favicon": true,
@@ -207,11 +207,13 @@
     "canonical": "https://agenticoins.com/",
     "og:title": "AgentiCoins \u2014 the trusted commerce layer for AI agents",
     "og:description": "AgentiCoins is the trusted commerce layer for AI agents. Discover verified services, set policy, route payment intents and keep a receipt for every action.",
-    "og:image": "https://agenticoins.com/og.jpg",
-    "og:url": "https://agenticoins.com/"
+    "og:image": "https://agenti.grok.me/og.jpg",
+    "og:url": ""
    },
-   "failed": [],
-   "ok": true
+   "failed": [
+    "og_url_on_domain"
+   ],
+   "ok": false
   },
   {
    "domain": "land.solar",

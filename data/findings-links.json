@@ -25,14 +25,14 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "55 links checked, none broken"
+  "detail": "60 links checked, none broken"
  },
  {
   "domain": "hackers.college",
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "90 links checked, none broken"
+  "detail": "94 links checked, none broken"
  },
  {
   "domain": "gpu.skin",
@@ -46,7 +46,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "98 links checked, none broken"
+  "detail": "95 links checked, none broken"
  },
  {
   "domain": "land.solar",
@@ -60,7 +60,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "184 links checked, none broken"
+  "detail": "186 links checked, none broken"
  },
  {
   "domain": "rcapad.com",
@@ -88,7 +88,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "90 links checked, none broken"
+  "detail": "94 links checked, none broken"
  },
  {
   "domain": "halalswitch.com",
