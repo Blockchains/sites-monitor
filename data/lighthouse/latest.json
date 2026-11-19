@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-18T14:08:47Z",
+ "checked_at": "2026-11-19T14:37:27Z",
  "threshold": 50,
  "results": [
   {
@@ -7,15 +7,15 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 74,
+    "performance": 81,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
     "LCP": "3.4\u00a0s",
-    "CLS": "0.024",
-    "TBT": "420\u00a0ms",
+    "CLS": "0.023",
+    "TBT": "210\u00a0ms",
     "FCP": "3.4\u00a0s"
    },
    "form_factor": "mobile",
@@ -26,16 +26,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 80,
+    "performance": 78,
     "accessibility": 97,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "4.2\u00a0s",
+    "LCP": "4.4\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
-    "FCP": "3.1\u00a0s"
+    "FCP": "3.3\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -45,13 +45,13 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 82,
+    "performance": 83,
     "accessibility": 96,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "3.7\u00a0s",
+    "LCP": "3.5\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
     "FCP": "3.5\u00a0s"
@@ -64,16 +64,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 88,
+    "performance": 84,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "3.1\u00a0s",
+    "LCP": "3.4\u00a0s",
     "CLS": "0",
-    "TBT": "10\u00a0ms",
-    "FCP": "3.1\u00a0s"
+    "TBT": "0\u00a0ms",
+    "FCP": "3.4\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -83,16 +83,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 95,
+    "performance": 94,
     "accessibility": 91,
     "best-practices": 96,
     "seo": 100
    },
    "metrics": {
-    "LCP": "2.4\u00a0s",
+    "LCP": "2.6\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
-    "FCP": "2.3\u00a0s"
+    "FCP": "2.4\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -102,14 +102,14 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 85,
+    "performance": 87,
     "accessibility": 95,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "2.8\u00a0s",
-    "CLS": "0.145",
+    "LCP": "2.9\u00a0s",
+    "CLS": "0.114",
     "TBT": "0\u00a0ms",
     "FCP": "2.8\u00a0s"
    },
@@ -121,16 +121,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 93,
+    "performance": 94,
     "accessibility": 92,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "2.6\u00a0s",
+    "LCP": "2.5\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
-    "FCP": "2.6\u00a0s"
+    "FCP": "2.5\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -140,7 +140,7 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 95,
+    "performance": 94,
     "accessibility": 96,
     "best-practices": 96,
     "seo": 100
@@ -149,7 +149,7 @@
     "LCP": "2.5\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
-    "FCP": "2.3\u00a0s"
+    "FCP": "2.5\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -159,16 +159,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 66,
+    "performance": 64,
     "accessibility": 95,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "5.5\u00a0s",
+    "LCP": "5.9\u00a0s",
     "CLS": "0.013",
     "TBT": "0\u00a0ms",
-    "FCP": "5.4\u00a0s"
+    "FCP": "5.8\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -178,16 +178,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 65,
+    "performance": 67,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "5.7\u00a0s",
+    "LCP": "5.6\u00a0s",
     "CLS": "0",
-    "TBT": "250\u00a0ms",
-    "FCP": "3.8\u00a0s"
+    "TBT": "0\u00a0ms",
+    "FCP": "4.7\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -197,13 +197,13 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 70,
+    "performance": 72,
     "accessibility": 96,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "4.9\u00a0s",
+    "LCP": "4.7\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
     "FCP": "4.6\u00a0s"
@@ -216,16 +216,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 77,
+    "performance": 76,
     "accessibility": 92,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "4.8\u00a0s",
-    "CLS": "0",
-    "TBT": "10\u00a0ms",
-    "FCP": "2.9\u00a0s"
+    "LCP": "4.7\u00a0s",
+    "CLS": "0.006",
+    "TBT": "0\u00a0ms",
+    "FCP": "3.3\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -235,16 +235,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 74,
+    "performance": 70,
     "accessibility": 96,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "4.4\u00a0s",
+    "LCP": "4.9\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
-    "FCP": "4.4\u00a0s"
+    "FCP": "4.9\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -254,16 +254,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 88,
+    "performance": 90,
     "accessibility": 100,
     "best-practices": 96,
     "seo": 100
    },
    "metrics": {
-    "LCP": "3.6\u00a0s",
+    "LCP": "3.5\u00a0s",
     "CLS": "0",
-    "TBT": "30\u00a0ms",
-    "FCP": "2.0\u00a0s"
+    "TBT": "50\u00a0ms",
+    "FCP": "1.7\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -292,16 +292,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 93,
+    "performance": 87,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "2.6\u00a0s",
+    "LCP": "3.2\u00a0s",
     "CLS": "0.029",
-    "TBT": "0\u00a0ms",
-    "FCP": "2.6\u00a0s"
+    "TBT": "10\u00a0ms",
+    "FCP": "3.2\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -311,16 +311,16 @@
    "locked": false,
    "error": null,
    "scores": {
-    "performance": 93,
+    "performance": 90,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 100
    },
    "metrics": {
-    "LCP": "2.5\u00a0s",
+    "LCP": "2.8\u00a0s",
     "CLS": "0",
     "TBT": "0\u00a0ms",
-    "FCP": "2.5\u00a0s"
+    "FCP": "2.8\u00a0s"
    },
    "form_factor": "mobile",
    "runs": 1
@@ -330,7 +330,7 @@
    "locked": true,
    "error": null,
    "scores": {
-    "performance": 97,
+    "performance": 96,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 100

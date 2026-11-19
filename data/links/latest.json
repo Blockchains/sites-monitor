@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-18T13:59:23Z",
+ "checked_at": "2026-11-19T14:27:38Z",
  "results": [
   {
    "domain": "grokhack.com",
@@ -54,8 +54,8 @@
    "domain": "hackers.college",
    "locked": false,
    "error": null,
-   "total": 94,
-   "successful": 94,
+   "total": 105,
+   "successful": 105,
    "errors": 0,
    "excludes": 0,
    "timeouts": 0,

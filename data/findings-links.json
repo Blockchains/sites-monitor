@@ -32,7 +32,7 @@
   "check": "broken-links",
   "ok": true,
   "skip_issue": false,
-  "detail": "94 links checked, none broken"
+  "detail": "105 links checked, none broken"
  },
  {
   "domain": "gpu.skin",
