@@ -1,16 +1,16 @@
 {
- "checked_at": "2026-11-21T02:51:08Z",
+ "checked_at": "2026-11-21T10:30:04Z",
  "results": [
   {
    "domain": "grokhack.com",
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 369,
+   "ms": 353,
    "final_url": "https://grokhack.com/",
    "error": null,
    "tls_expires": "2027-02-05T08:01:52Z",
-   "tls_days_left": 76.2,
+   "tls_days_left": 75.9,
    "tls_error": null
   },
   {
@@ -18,11 +18,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 370,
+   "ms": 658,
    "final_url": "https://grokskill.com/",
    "error": null,
    "tls_expires": "2026-12-17T16:23:14Z",
-   "tls_days_left": 26.6,
+   "tls_days_left": 26.2,
    "tls_error": null
   },
   {
@@ -30,11 +30,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 1074,
+   "ms": 392,
    "final_url": "https://induscript.com/",
    "error": null,
-   "tls_expires": "2026-12-19T17:06:07Z",
-   "tls_days_left": 28.6,
+   "tls_expires": "2027-02-19T02:53:31Z",
+   "tls_days_left": 89.7,
    "tls_error": null
   },
   {
@@ -42,11 +42,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 519,
+   "ms": 273,
    "final_url": "https://11plus.college/",
    "error": null,
    "tls_expires": "2027-02-12T21:06:45Z",
-   "tls_days_left": 83.8,
+   "tls_days_left": 83.4,
    "tls_error": null
   },
   {
@@ -54,11 +54,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 355,
+   "ms": 297,
    "final_url": "https://hackers.college/",
    "error": null,
    "tls_expires": "2027-02-13T07:29:38Z",
-   "tls_days_left": 84.2,
+   "tls_days_left": 83.9,
    "tls_error": null
   },
   {
@@ -66,11 +66,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 513,
+   "ms": 436,
    "final_url": "https://gpu.skin/",
    "error": null,
    "tls_expires": "2027-02-13T23:50:19Z",
-   "tls_days_left": 84.9,
+   "tls_days_left": 84.6,
    "tls_error": null
   },
   {
@@ -78,11 +78,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 246,
+   "ms": 624,
    "final_url": "https://agenticoins.com/",
    "error": null,
    "tls_expires": "2027-02-13T03:06:17Z",
-   "tls_days_left": 84.0,
+   "tls_days_left": 83.7,
    "tls_error": null
   },
   {
@@ -90,11 +90,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 486,
+   "ms": 345,
    "final_url": "https://land.solar/",
    "error": null,
    "tls_expires": "2027-02-12T14:10:47Z",
-   "tls_days_left": 83.5,
+   "tls_days_left": 83.2,
    "tls_error": null
   },
   {
@@ -102,11 +102,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 200,
+   "ms": 251,
    "final_url": "https://blockchainlab.com/",
    "error": null,
    "tls_expires": "2026-12-29T07:08:44Z",
-   "tls_days_left": 38.2,
+   "tls_days_left": 37.9,
    "tls_error": null
   },
   {
@@ -114,11 +114,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 287,
+   "ms": 492,
    "final_url": "https://rcapad.com/",
    "error": null,
    "tls_expires": "2027-02-13T01:20:49Z",
-   "tls_days_left": 83.9,
+   "tls_days_left": 83.6,
    "tls_error": null
   },
   {
@@ -126,11 +126,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 229,
+   "ms": 263,
    "final_url": "https://halal.coupons/",
    "error": null,
    "tls_expires": "2027-02-12T15:06:59Z",
-   "tls_days_left": 83.5,
+   "tls_days_left": 83.2,
    "tls_error": null
   },
   {
@@ -138,11 +138,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 220,
+   "ms": 201,
    "final_url": "https://regulationcryptoasset.com/",
    "error": null,
    "tls_expires": "2027-02-12T14:18:44Z",
-   "tls_days_left": 83.5,
+   "tls_days_left": 83.2,
    "tls_error": null
   },
   {
@@ -150,11 +150,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 245,
+   "ms": 213,
    "final_url": "https://onetouchswitch.com/",
    "error": null,
    "tls_expires": "2027-02-12T11:50:41Z",
-   "tls_days_left": 83.4,
+   "tls_days_left": 83.1,
    "tls_error": null
   },
   {
@@ -166,7 +166,7 @@
    "final_url": "https://halalswitch.com/",
    "error": null,
    "tls_expires": "2027-02-14T16:26:08Z",
-   "tls_days_left": 85.6,
+   "tls_days_left": 85.2,
    "tls_error": null
   },
   {
@@ -174,11 +174,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 357,
+   "ms": 520,
    "final_url": "https://partywallsurvey.uk/",
    "error": null,
    "tls_expires": "2026-12-26T18:58:05Z",
-   "tls_days_left": 35.7,
+   "tls_days_left": 35.4,
    "tls_error": null
   },
   {
@@ -186,11 +186,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 200,
+   "ms": 228,
    "final_url": "https://equityperpetual.com/",
    "error": null,
    "tls_expires": "2026-12-26T19:09:50Z",
-   "tls_days_left": 35.7,
+   "tls_days_left": 35.4,
    "tls_error": null
   },
   {
@@ -198,11 +198,11 @@
    "locked": false,
    "up": true,
    "status": 200,
-   "ms": 853,
+   "ms": 1691,
    "final_url": "https://altvaults.com/",
    "error": null,
    "tls_expires": "2026-12-27T18:37:38Z",
-   "tls_days_left": 36.7,
+   "tls_days_left": 36.3,
    "tls_error": null
   },
   {
@@ -210,11 +210,11 @@
    "locked": true,
    "up": true,
    "status": 200,
-   "ms": 227,
+   "ms": 355,
    "final_url": "https://aisales.news/",
    "error": null,
    "tls_expires": "2027-02-13T01:20:27Z",
-   "tls_days_left": 83.9,
+   "tls_days_left": 83.6,
    "tls_error": null
   }
  ]
